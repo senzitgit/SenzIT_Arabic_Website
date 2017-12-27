@@ -1,0 +1,2 @@
+[20-Jul-2015 20:12:19 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/twentyfourteen/404.php on line 10
+[06-Mar-2017 12:59:06 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/twentyfourteen/404.php on line 10

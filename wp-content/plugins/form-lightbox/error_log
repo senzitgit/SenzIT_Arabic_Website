@@ -1,0 +1,6 @@
+[26-Jul-2015 01:27:33 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/form-lightbox/admin-page.php on line 28
+[08-Aug-2015 21:32:38 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/form-lightbox/admin-page.php on line 28
+[06-Dec-2016 05:12:52 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class FormLightboxAdmin in /home/senzixwd/public_html/SENZIT_UAE/wp-content/plugins/form-lightbox/admin-page.php on line 27
+[06-Dec-2016 05:12:52 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/plugins/form-lightbox/admin-page.php on line 28
+[06-Dec-2016 05:13:13 Etc/GMT] PHP Strict Standards:  Redefining already defined constructor for class FormLightboxAdmin in /home/senzixwd/public_html/SENZIT_UAE/wp-content/plugins/form-lightbox/admin-page.php on line 27
+[06-Dec-2016 05:13:13 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/plugins/form-lightbox/admin-page.php on line 28

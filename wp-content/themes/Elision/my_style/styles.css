@@ -1,0 +1,267 @@
+.img_contain > div
+{
+float:left;
+width:33.33%;
+height:700px;
+}
+
+
+.img_contain img
+{
+margin:0 auto;
+width:350px;
+}
+
+
+.img_each_1
+{
+background:#ffffff url("style_images/government_bg.jpg") no-repeat center center;
+}
+
+.img_each_2
+{
+background:#ffffff url("style_images/justice_bg.jpg") no-repeat center center;
+}
+
+.img_each_3
+{
+background:#ffffff url("style_images/slidef33.jpg") no-repeat center center;
+}
+
+.img_head
+{
+text-align:center;
+margin: 200px auto 0 auto;
+font-size:30px;
+color:#ffffff;
+}
+
+.img_img
+{
+margin:284px 0 0 0;
+}
+
+.img_frt_pge
+{
+width: 80%;
+margin: 230px auto 0 auto;
+padding: 0px 28px 5px 20px;
+color: #ffffff;
+}
+
+
+.change_bg_color_1
+{
+background:rgba(255, 255, 255, .8);
+}
+
+
+.change_bg_color_2
+{
+background:rgba(80,19,11,0.4);
+}
+
+.change_bg_color_3
+{
+background:rgba(244,244,244,0.4);
+}
+
+
+.img_1
+{
+background:transparent url("style_images/govt_bw3.png") no-repeat center center;
+height:50px;
+background-size: contain;
+}
+
+.img_2
+{
+background:transparent url("style_images/logo-full-justice.png") no-repeat center center;
+height:45px;
+background-size: contain;
+}
+
+.img_3
+{
+background:transparent url("") no-repeat center center;
+text-align:center;
+font-size:34px;
+height:45px;
+color:#000000;
+padding:10px 0 0 0;
+}
+
+
+.img_content
+{
+float:left;
+padding: 10px 100px 0 100px;
+color:#ffffff;
+}
+
+
+
+
+
+/*---Profile Section --- */
+
+
+.main_prof_contain
+{
+margin:0 auto;
+width:100%;
+height:500px;
+position:relative;
+}
+
+.prof_contain
+{
+float:left;
+margin: 0;
+background:rgba(117,180,209,0.1);
+
+}
+
+.prof_photo
+{
+float:left;
+width:150px;
+height:140px;
+overflow:hidden;
+
+transition: width 2s,height 2s;
+-webkit-transition: width 2s, height 2s;
+ -moz-transition: width 2s,height 2s; /* Firefox 4 */
+ -o-transition: width 2s,height 2s; /* Opera */
+-ms-transition: width 2s,height 2s; /* IE9 (maybe) */
+
+
+}
+
+.prof_desc
+{
+float: left;
+width: 190px;
+height: 118px;
+padding:10px;
+
+ transition: width 2s,height 2s;
+-webkit-transition: width 2s, height 2s;
+
+    -moz-transition: width 2s,height 2s; /* Firefox 4 */
+   -o-transition: width 2s,height 2s; /* Opera */
+   -ms-transition: width 2s,height 2s; /* IE9 (maybe) */
+
+}
+
+
+
+.add_prof_dimension
+{
+/*margin: 0 0 0 160px;*/
+width: 100%;
+height: 250px;
+line-height: 50px;
+}
+
+
+.add_prof_photo
+{
+position:absolute;
+width: 250px;
+height: 241px;
+}
+
+.prof_more
+{
+display:none;
+text-align:justify;
+padding: 0 20px 0 20px;
+}
+
+.prof_back
+{
+position: absolute;
+top: 0;
+right: 0;
+}
+
+.prof_name
+{
+text-align:center;
+font-size:15px;
+
+}
+
+.prof_designation
+{
+text-align:center;
+font-size:13px;
+
+}
+
+
+.connect
+{
+margin:30px auto;
+width:65px;
+}
+
+
+.connect_more {
+margin: -76px 50px 0 0 !important;
+float: right;
+width:65px;
+}
+
+.connect img
+{
+float:left;
+margin:0 0 0 10px;
+}
+
+.connect_more img {
+float:left;
+margin:0 0 0 10px;
+}
+
+.gkextraclass
+{
+width:100% !important;
+}
+
+.gkextrasideclass
+{
+display:none;
+}
+
+
+.partner-img-container
+{
+}
+.partner-img
+{
+float:left;
+width:160px;
+height:160px;
+}
+
+
+
+
+
+.partner-img img:hover
+{
+background:rgba(015,155,172,0.7);
+-webkit-transition:all .3s ease-out;
+	-moz-transition:all .3s ease-out;
+	-ms-transition:all .3s ease-out;
+	-o-transition:all .3s ease-out;
+	transition:all .3s ease-out;
+
+width:155px;
+height:155px;
+}
+
+
+

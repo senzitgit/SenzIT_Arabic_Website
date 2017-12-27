@@ -1,0 +1,7681 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elision v1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-12-30 16:57:16+0000\n"
+"Last-Translator: admin <support@qodeinteractive.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:65
+#: 404.php:70
+#@ qode
+msgid "404"
+msgstr ""
+
+#: 404.php:71
+#@ qode
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:82
+#@ qode
+msgid "The page you requested does not exist"
+msgstr ""
+
+#: 404.php:83
+#@ qode
+msgid "Back to homepage"
+msgstr ""
+
+#: archive.php:98
+#@ qode
+msgid "Archive"
+msgstr ""
+
+#: archive.php:146
+#: archive.php:162
+#: archive.php:185
+#: archive.php:209
+#: archive.php:225
+#: archive.php:248
+#: archive.php:281
+#: archive.php:297
+#: archive.php:318
+#: blog-large-image-whole-post.php:150
+#: blog-large-image-whole-post.php:169
+#: blog-large-image-whole-post.php:197
+#: blog-large-image.php:154
+#: blog-large-image.php:173
+#: blog-large-image.php:201
+#: blog-masonry.php:150
+#: blog-masonry.php:170
+#: blog-masonry.php:199
+#: category.php:130
+#: category.php:146
+#: category.php:169
+#: category.php:193
+#: category.php:209
+#: category.php:232
+#: category.php:265
+#: category.php:281
+#: category.php:302
+#: home.php:159
+#: home.php:175
+#: home.php:198
+#: home.php:222
+#: home.php:238
+#: home.php:261
+#: home.php:294
+#: home.php:310
+#: home.php:331
+#: index.php:144
+#: index.php:160
+#: index.php:183
+#: index.php:207
+#: index.php:223
+#: index.php:246
+#: index.php:279
+#: index.php:295
+#: index.php:316
+#: search.php:127
+#: search.php:148
+#: search.php:176
+#@ qode
+msgid "No posts were found."
+msgstr ""
+
+#: blog_large_image-loop.php:48
+#: blog_large_image-loop.php:85
+#: blog_large_image-loop.php:162
+#: blog_large_image-loop.php:233
+#: blog_large_image_whole_post-loop.php:48
+#: blog_large_image_whole_post-loop.php:85
+#: blog_large_image_whole_post-loop.php:165
+#: blog_large_image_whole_post-loop.php:238
+#: blog_masonry-loop.php:32
+#: blog_masonry-loop.php:68
+#: blog_masonry-loop.php:140
+#: blog_masonry-loop.php:206
+#: blog_single-loop.php:52
+#: blog_single-loop.php:88
+#: blog_single-loop.php:167
+#: blog_single-loop.php:239
+#: includes/shortcodes/shortcodes.php:1064
+#@ qode
+msgid "No comment"
+msgstr ""
+
+#: blog_large_image-loop.php:48
+#: blog_large_image-loop.php:85
+#: blog_large_image-loop.php:162
+#: blog_large_image-loop.php:233
+#: blog_large_image_whole_post-loop.php:48
+#: blog_large_image_whole_post-loop.php:85
+#: blog_large_image_whole_post-loop.php:165
+#: blog_large_image_whole_post-loop.php:238
+#: blog_masonry-loop.php:32
+#: blog_masonry-loop.php:68
+#: blog_masonry-loop.php:140
+#: blog_masonry-loop.php:206
+#: blog_single-loop.php:52
+#: blog_single-loop.php:88
+#: blog_single-loop.php:167
+#: blog_single-loop.php:239
+#: comments.php:2
+#: includes/shortcodes/shortcodes.php:1067
+#@ qode
+msgid "Comment"
+msgstr ""
+
+#: blog_large_image-loop.php:48
+#: blog_large_image-loop.php:85
+#: blog_large_image-loop.php:162
+#: blog_large_image-loop.php:233
+#: blog_large_image_whole_post-loop.php:48
+#: blog_large_image_whole_post-loop.php:85
+#: blog_large_image_whole_post-loop.php:165
+#: blog_large_image_whole_post-loop.php:238
+#: blog_masonry-loop.php:32
+#: blog_masonry-loop.php:68
+#: blog_masonry-loop.php:140
+#: blog_masonry-loop.php:206
+#: blog_single-loop.php:52
+#: blog_single-loop.php:88
+#: blog_single-loop.php:167
+#: blog_single-loop.php:239
+#: comments.php:2
+#: includes/shortcodes/shortcodes.php:1070
+#@ qode
+msgid "Comments"
+msgstr ""
+
+#: blog_large_image-loop.php:51
+#: blog_large_image-loop.php:88
+#: blog_large_image-loop.php:165
+#: blog_large_image-loop.php:236
+#: blog_large_image_whole_post-loop.php:51
+#: blog_large_image_whole_post-loop.php:88
+#: blog_large_image_whole_post-loop.php:170
+#: blog_large_image_whole_post-loop.php:241
+#: blog_masonry-loop.php:36
+#: blog_masonry-loop.php:72
+#: blog_masonry-loop.php:144
+#: blog_masonry-loop.php:210
+#: woocommerce/loop/add-to-cart.php:44
+#: woocommerce/loop/add-to-cart.php:53
+#@ qode
+#@ woocommerce
+msgid "Read More"
+msgstr ""
+
+#: blog_large_image-loop.php:77
+#: blog_large_image_whole_post-loop.php:77
+#: blog_masonry-loop.php:61
+#: blog_single-loop.php:80
+#@ qode
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: blog_single-loop.php:268
+#@ qode
+msgid "AUTHOR"
+msgstr ""
+
+#: comments.php:2
+#@ qode
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:5
+#@ qode
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:29
+#@ qode
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:42
+#@ qode
+msgid "Post A Comment"
+msgstr ""
+
+#: comments.php:43
+#, php-format
+#@ qode
+msgid "Post A Reply to %s"
+msgstr ""
+
+#: comments.php:44
+#@ qode
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:45
+#: includes/import/class.wordpress-importer.php:285
+#@ qode
+#@ wordpress-importer
+msgid "Submit"
+msgstr ""
+
+#: comments.php:46
+#@ qode
+msgid "Write your message here..."
+msgstr ""
+
+#: comments.php:50
+#@ qode
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:51
+#@ qode
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:52
+#: contact-page.php:162
+#@ qode
+msgid "Website"
+msgstr ""
+
+#: contact-page.php:136
+#@ qode
+msgid "Contact Us"
+msgstr ""
+
+#: contact-page.php:141
+#@ qode
+msgid "First Name *"
+msgstr ""
+
+#: contact-page.php:146
+#@ qode
+msgid "Last Name *"
+msgstr ""
+
+#: contact-page.php:151
+#: contact-page.php:157
+#@ qode
+msgid "Email *"
+msgstr ""
+
+#: contact-page.php:168
+#: extendvc/extend-vc.php:1445
+#@ qode
+#@ js_composer
+msgid "Message"
+msgstr ""
+
+#: contact-page.php:195
+#@ qode
+msgid "CONTACT US"
+msgstr ""
+
+#: contact-page.php:222
+#@ qode
+msgid "This is a required field"
+msgstr ""
+
+#: contact-page.php:230
+#@ qode
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: contact-page.php:260
+#@ qode
+msgid "THANK YOU!"
+msgstr ""
+
+#: contact-page.php:260
+#@ qode
+msgid "Your email was successfully sent. We will contact you as soon as possible."
+msgstr ""
+
+#: contact-page.php:269
+#@ qode
+msgid "Invalid Captcha"
+msgstr ""
+
+#: contact-page.php:274
+#@ qode
+msgid "Email server problem"
+msgstr ""
+
+#: extendvc/extend-vc.php:47
+#: extendvc/extend-vc.php:114
+#: extendvc/extend-vc.php:2506
+#@ js_composer
+msgid "Style"
+msgstr ""
+
+#: extendvc/extend-vc.php:61
+#: extendvc/extend-vc.php:1019
+#: extendvc/extend-vc.php:1258
+#: extendvc/extend-vc.php:1467
+#: extendvc/extend-vc.php:1709
+#: extendvc/extend-vc.php:2077
+#: extendvc/extend-vc.php:2567
+#: extendvc/extend-vc.php:2600
+#: extendvc/extend-vc.php:2734
+#: extendvc/extend-vc.php:2890
+#: extendvc/extend-vc.php:3423
+#: includes/navmenu/edit_custom_walker.php:225
+#: wpbakery/js_composer/config/map.php:1074
+#: wpbakery/js_composer/config/map.php:1141
+#@ js_composer
+#@ qode
+msgid "Icon"
+msgstr ""
+
+#: extendvc/extend-vc.php:70
+#: extendvc/extend-vc.php:1028
+#: extendvc/extend-vc.php:1283
+#: extendvc/extend-vc.php:1476
+#: extendvc/extend-vc.php:1733
+#: extendvc/extend-vc.php:2109
+#: extendvc/extend-vc.php:2657
+#: extendvc/extend-vc.php:2822
+#: extendvc/extend-vc.php:2994
+#: extendvc/extend-vc.php:3446
+#@ js_composer
+msgid "Icon Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:79
+#: extendvc/extend-vc.php:584
+#: extendvc/extend-vc.php:1060
+#: extendvc/extend-vc.php:1412
+#: extendvc/extend-vc.php:1611
+#: extendvc/extend-vc.php:1702
+#: extendvc/extend-vc.php:1883
+#: extendvc/extend-vc.php:1965
+#: extendvc/extend-vc.php:3034
+#: extendvc/extend-vc.php:3462
+#: extendvc/extend-vc.php:3535
+#: includes/qode-options.php:1979
+#@ js_composer
+#@ qode
+msgid "Title Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:88
+#: extendvc/extend-vc.php:577
+#: extendvc/extend-vc.php:646
+#: extendvc/extend-vc.php:1092
+#: extendvc/extend-vc.php:1207
+#: extendvc/extend-vc.php:1322
+#: extendvc/extend-vc.php:1515
+#: extendvc/extend-vc.php:1996
+#: extendvc/extend-vc.php:2125
+#: extendvc/extend-vc.php:2439
+#: extendvc/extend-vc.php:2665
+#: extendvc/extend-vc.php:2830
+#: includes/qode-options.php:1180
+#: includes/qode-options.php:1895
+#: includes/qode-options.php:1908
+#: includes/qode-options.php:1911
+#: includes/qode-options.php:1961
+#: includes/qode-options.php:2037
+#@ js_composer
+#@ qode
+msgid "Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:97
+#: extendvc/extend-vc.php:796
+#: extendvc/extend-vc.php:1419
+#: extendvc/extend-vc.php:1618
+#: extendvc/extend-vc.php:1740
+#: extendvc/extend-vc.php:1890
+#: extendvc/extend-vc.php:1972
+#: extendvc/extend-vc.php:3018
+#: extendvc/extend-vc.php:3178
+#: extendvc/extend-vc.php:3477
+#@ js_composer
+msgid "Title Tag"
+msgstr ""
+
+#: extendvc/extend-vc.php:129
+#@ js_composer
+msgid "Column Number"
+msgstr ""
+
+#: extendvc/extend-vc.php:131
+#: wpbakery/js_composer/composer/settings/settings.php:365
+#: wpbakery/js_composer/config/map.php:428
+#: wpbakery/js_composer/config/map.php:546
+#: wpbakery/js_composer/config/map.php:889
+#@ js_composer
+msgid "Disable"
+msgstr ""
+
+#: extendvc/extend-vc.php:140
+#: extendvc/extend-vc.php:344
+#@ js_composer
+msgid "Row Type"
+msgstr ""
+
+#: extendvc/extend-vc.php:152
+#: extendvc/extend-vc.php:357
+#: extendvc/extend-vc.php:496
+#: extendvc/extend-vc.php:608
+#: extendvc/extend-vc.php:674
+#: extendvc/extend-vc.php:960
+#: extendvc/extend-vc.php:1080
+#: extendvc/extend-vc.php:1456
+#: extendvc/extend-vc.php:2065
+#: extendvc/extend-vc.php:2171
+#: extendvc/extend-vc.php:2609
+#: extendvc/extend-vc.php:3515
+#: includes/class-tgm-plugin-activation.php:1293
+#: includes/navmenu/edit_custom_walker.php:205
+#: wpbakery/js_composer/config/map.php:1326
+#@ js_composer
+#@ tgmpa
+#@ qode
+msgid "Type"
+msgstr ""
+
+#: extendvc/extend-vc.php:163
+#: extendvc/extend-vc.php:368
+#@ js_composer
+msgid "Anchor ID"
+msgstr ""
+
+#: extendvc/extend-vc.php:170
+#: extendvc/extend-vc.php:375
+#: extendvc/extend-vc.php:1371
+#: extendvc/extend-vc.php:2396
+#@ js_composer
+msgid "Text Align"
+msgstr ""
+
+#: extendvc/extend-vc.php:181
+#@ js_composer
+msgid "Video background"
+msgstr ""
+
+#: extendvc/extend-vc.php:182
+#@ js_composer
+msgid "Use video background?"
+msgstr ""
+
+#: extendvc/extend-vc.php:190
+#@ js_composer
+msgid "Video overlay"
+msgstr ""
+
+#: extendvc/extend-vc.php:191
+#@ js_composer
+msgid "Use transparent overlay over video?"
+msgstr ""
+
+#: extendvc/extend-vc.php:199
+#@ js_composer
+msgid "Video background (webm) file url"
+msgstr ""
+
+#: extendvc/extend-vc.php:208
+#@ js_composer
+msgid "Video background (mp4) file url"
+msgstr ""
+
+#: extendvc/extend-vc.php:217
+#@ js_composer
+msgid "Video background (ogv) file url"
+msgstr ""
+
+#: extendvc/extend-vc.php:226
+#@ js_composer
+msgid "Video preview image"
+msgstr ""
+
+#: extendvc/extend-vc.php:235
+#: extendvc/extend-vc.php:387
+#: includes/qode-options.php:1269
+#: includes/qode-options.php:1582
+#: includes/qode-options.php:1688
+#: includes/qode-options.php:1703
+#: includes/qode-options.php:1797
+#: includes/qode-options.php:1860
+#: includes/qode-options.php:1922
+#@ js_composer
+#@ qode
+msgid "Background color"
+msgstr ""
+
+#: extendvc/extend-vc.php:396
+#: includes/qode-options.php:1865
+#@ js_composer
+#@ qode
+msgid "Border color"
+msgstr ""
+
+#: extendvc/extend-vc.php:254
+#: extendvc/extend-vc.php:406
+#@ js_composer
+msgid "Padding"
+msgstr ""
+
+#: extendvc/extend-vc.php:257
+#: extendvc/extend-vc.php:409
+#@ js_composer
+msgid "Padding (left/right in % - full width only)"
+msgstr ""
+
+#: extendvc/extend-vc.php:263
+#: extendvc/extend-vc.php:416
+#@ js_composer
+msgid "Padding Top"
+msgstr ""
+
+#: extendvc/extend-vc.php:272
+#: extendvc/extend-vc.php:425
+#@ js_composer
+msgid "Padding Bottom"
+msgstr ""
+
+#: extendvc/extend-vc.php:281
+#: extendvc/extend-vc.php:434
+#@ js_composer
+msgid "More Button Label"
+msgstr ""
+
+#: extendvc/extend-vc.php:290
+#: extendvc/extend-vc.php:443
+#@ js_composer
+msgid "Less Button Label"
+msgstr ""
+
+#: extendvc/extend-vc.php:299
+#: extendvc/extend-vc.php:452
+#@ js_composer
+msgid "Button Position"
+msgstr ""
+
+#: extendvc/extend-vc.php:313
+#: extendvc/extend-vc.php:466
+#: extendvc/extend-vc.php:524
+#: extendvc/extend-vc.php:1314
+#: extendvc/extend-vc.php:2417
+#: includes/qode-options.php:650
+#: includes/qode-options.php:700
+#: includes/qode-options.php:751
+#: includes/qode-options.php:802
+#: includes/qode-options.php:853
+#: includes/qode-options.php:904
+#: includes/qode-options.php:960
+#: includes/qode-options.php:1015
+#: includes/qode-options.php:1064
+#: includes/qode-options.php:1283
+#: includes/qode-options.php:1339
+#: includes/qode-options.php:1394
+#: includes/qode-options.php:1448
+#: includes/qode-options.php:1502
+#: includes/qode-options.php:1722
+#: includes/qode-options.php:1745
+#: includes/qode-options.php:1813
+#: includes/qode-options.php:1875
+#: includes/qode-options.php:1890
+#: wpbakery/js_composer/config/map.php:1067
+#: wpbakery/js_composer/config/map.php:1134
+#@ js_composer
+#@ qode
+msgid "Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:321
+#: extendvc/extend-vc.php:474
+#: wpbakery/js_composer/config/map.php:19
+#@ js_composer
+msgid "CSS Animation"
+msgstr ""
+
+#: extendvc/extend-vc.php:484
+#: extendvc/extend-vc.php:3632
+#@ js_composer
+msgid "Transition delay"
+msgstr ""
+
+#: extendvc/extend-vc.php:510
+#: extendvc/extend-vc.php:972
+#: extendvc/extend-vc.php:2622
+#@ js_composer
+msgid "Position"
+msgstr ""
+
+#: extendvc/extend-vc.php:533
+#@ js_composer
+msgid "Thickness"
+msgstr ""
+
+#: extendvc/extend-vc.php:541
+#@ js_composer
+msgid "Top Margin"
+msgstr ""
+
+#: extendvc/extend-vc.php:549
+#@ js_composer
+msgid "Bottom Margin"
+msgstr ""
+
+#: extendvc/extend-vc.php:559
+#: extendvc/extend-vc.php:2636
+#@ js_composer
+msgid "Border"
+msgstr ""
+
+#: extendvc/extend-vc.php:569
+#: extendvc/extend-vc.php:655
+#: extendvc/extend-vc.php:1100
+#: extendvc/extend-vc.php:1215
+#: extendvc/extend-vc.php:1330
+#: extendvc/extend-vc.php:1523
+#: extendvc/extend-vc.php:2141
+#: extendvc/extend-vc.php:2648
+#: includes/qode-options.php:1900
+#@ js_composer
+#@ qode
+msgid "Border Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:638
+#: extendvc/extend-vc.php:1183
+#: extendvc/extend-vc.php:1642
+#: extendvc/extend-vc.php:1764
+#: extendvc/extend-vc.php:3050
+#: includes/qode-options.php:1970
+#@ js_composer
+#@ qode
+msgid "Text Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:590
+#: includes/navmenu/edit_custom_walker.php:179
+#@ js_composer
+#@ qode
+msgid "Anchor"
+msgstr ""
+
+#: extendvc/extend-vc.php:598
+#: includes/qode-custom-post-types.php:35
+#@ js_composer
+#@ qode
+msgid "Testimonials"
+msgstr ""
+
+#: extendvc/extend-vc.php:600
+#: extendvc/extend-vc.php:666
+#: extendvc/extend-vc.php:815
+#: extendvc/extend-vc.php:893
+#: extendvc/extend-vc.php:951
+#: extendvc/extend-vc.php:1014
+#: extendvc/extend-vc.php:1071
+#: extendvc/extend-vc.php:1166
+#: extendvc/extend-vc.php:1226
+#: extendvc/extend-vc.php:1388
+#: extendvc/extend-vc.php:1447
+#: extendvc/extend-vc.php:1556
+#: extendvc/extend-vc.php:1655
+#: extendvc/extend-vc.php:1777
+#: extendvc/extend-vc.php:1820
+#: extendvc/extend-vc.php:1868
+#: extendvc/extend-vc.php:1950
+#: extendvc/extend-vc.php:2042
+#: extendvc/extend-vc.php:2164
+#: extendvc/extend-vc.php:2246
+#: extendvc/extend-vc.php:2342
+#: extendvc/extend-vc.php:2353
+#: extendvc/extend-vc.php:2477
+#: extendvc/extend-vc.php:2499
+#: extendvc/extend-vc.php:2569
+#: extendvc/extend-vc.php:2728
+#: extendvc/extend-vc.php:2843
+#: extendvc/extend-vc.php:3105
+#: extendvc/extend-vc.php:3197
+#: extendvc/extend-vc.php:3395
+#: extendvc/extend-vc.php:3507
+#: extendvc/extend-vc.php:3589
+#: wpbakery/js_composer/config/map.php:667
+#@ js_composer
+msgid "by QODE"
+msgstr ""
+
+#: extendvc/extend-vc.php:620
+#: extendvc/extend-vc.php:779
+#: extendvc/extend-vc.php:859
+#: extendvc/extend-vc.php:3779
+#@ js_composer
+msgid "Category"
+msgstr ""
+
+#: extendvc/extend-vc.php:623
+#: extendvc/extend-vc.php:782
+#: extendvc/extend-vc.php:862
+#@ js_composer
+msgid "Category Slug (leave empty for all)"
+msgstr ""
+
+#: extendvc/extend-vc.php:629
+#: extendvc/extend-vc.php:770
+#: extendvc/extend-vc.php:850
+#: extendvc/extend-vc.php:3758
+#@ js_composer
+msgid "Number"
+msgstr ""
+
+#: extendvc/extend-vc.php:632
+#@ js_composer
+msgid "Number of Testimonials"
+msgstr ""
+
+#: extendvc/extend-vc.php:648
+#: extendvc/extend-vc.php:657
+#@ js_composer
+msgid "Only for normal type"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:18
+#@ qode
+msgid "Portfolio"
+msgstr ""
+
+#: extendvc/extend-vc.php:688
+#: extendvc/extend-vc.php:3795
+#: extendvc/extend-vc.php:3848
+#: extendvc/extend-vc.php:3901
+#@ js_composer
+msgid "Columns"
+msgstr ""
+
+#: extendvc/extend-vc.php:704
+#: extendvc/extend-vc.php:823
+#: extendvc/extend-vc.php:909
+#: extendvc/extend-vc.php:3138
+#: extendvc/extend-vc.php:3803
+#: extendvc/extend-vc.php:3856
+#: extendvc/extend-vc.php:3909
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:162
+#@ js_composer
+msgid "Order By"
+msgstr ""
+
+#: extendvc/extend-vc.php:718
+#: extendvc/extend-vc.php:837
+#: extendvc/extend-vc.php:923
+#: extendvc/extend-vc.php:3151
+#: extendvc/extend-vc.php:3815
+#: extendvc/extend-vc.php:3868
+#: extendvc/extend-vc.php:3921
+#: woocommerce/myaccount/my-orders.php:32
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:163
+#@ js_composer
+#@ woocommerce
+msgid "Order"
+msgstr ""
+
+#: extendvc/extend-vc.php:731
+#@ js_composer
+msgid "Filter"
+msgstr ""
+
+#: extendvc/extend-vc.php:744
+#: extendvc/extend-vc.php:877
+#@ js_composer
+msgid "Lightbox"
+msgstr ""
+
+#: extendvc/extend-vc.php:757
+#@ js_composer
+msgid "Show Load More"
+msgstr ""
+
+#: extendvc/extend-vc.php:773
+#: extendvc/extend-vc.php:853
+#@ js_composer
+msgid "Number of portolios on page (-1 is all)"
+msgstr ""
+
+#: extendvc/extend-vc.php:788
+#: extendvc/extend-vc.php:868
+#@ js_composer
+msgid "Selected Projects"
+msgstr ""
+
+#: extendvc/extend-vc.php:791
+#: extendvc/extend-vc.php:871
+#@ js_composer
+msgid "Selected Projects (leave empty for all, delimit by comma)"
+msgstr ""
+
+#: extendvc/extend-vc.php:813
+#@ js_composer
+msgid "Portfolio Slider"
+msgstr ""
+
+#: extendvc/extend-vc.php:891
+#: includes/qode-custom-post-types.php:79
+#: includes/qode-custom-post-types.php:80
+#@ js_composer
+#@ qode
+msgid "Qode Carousel"
+msgstr ""
+
+#: extendvc/extend-vc.php:900
+#@ js_composer
+msgid "Carousel Slider"
+msgstr ""
+
+#: extendvc/extend-vc.php:936
+#@ js_composer
+msgid "Control Pagination Style"
+msgstr ""
+
+#: extendvc/extend-vc.php:949
+#@ js_composer
+msgid "Counter"
+msgstr ""
+
+#: extendvc/extend-vc.php:985
+#@ js_composer
+msgid "Digit"
+msgstr ""
+
+#: extendvc/extend-vc.php:993
+#: includes/qode-options.php:664
+#: includes/qode-options.php:714
+#: includes/qode-options.php:765
+#: includes/qode-options.php:816
+#: includes/qode-options.php:867
+#: includes/qode-options.php:918
+#: includes/qode-options.php:974
+#: includes/qode-options.php:1078
+#: includes/qode-options.php:1302
+#: includes/qode-options.php:1358
+#: includes/qode-options.php:1413
+#: includes/qode-options.php:1467
+#: includes/qode-options.php:1521
+#: includes/qode-options.php:1764
+#: includes/qode-options.php:1827
+#: includes/qode-options.php:1880
+#@ js_composer
+#@ qode
+msgid "Font size (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1001
+#@ js_composer
+msgid "Font Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1010
+#@ js_composer
+msgid "Icon List Item"
+msgstr ""
+
+#: extendvc/extend-vc.php:1036
+#: extendvc/extend-vc.php:1484
+#: extendvc/extend-vc.php:3002
+#@ js_composer
+msgid "Icon Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1044
+#: extendvc/extend-vc.php:2985
+#@ js_composer
+msgid "Icon Border Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1052
+#: extendvc/extend-vc.php:1404
+#: extendvc/extend-vc.php:1603
+#: extendvc/extend-vc.php:1694
+#: extendvc/extend-vc.php:1875
+#: extendvc/extend-vc.php:1957
+#: extendvc/extend-vc.php:2253
+#: extendvc/extend-vc.php:3011
+#: extendvc/extend-vc.php:3454
+#: extendvc/extend-vc.php:3527
+#: extendvc/vc_templates/vc_text_separator.php:4
+#: includes/qode-options.php:1572
+#: includes/qode-options.php:2450
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:226
+#: wpbakery/js_composer/composer/lib/params/vc_link/vc_link.php:6
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_text_separator.php:4
+#: wpbakery/js_composer/config/map.php:160
+#: wpbakery/js_composer/config/map.php:163
+#: wpbakery/js_composer/config/map.php:579
+#: wpbakery/js_composer/config/map.php:651
+#: wpbakery/js_composer/config/map.php:699
+#: wpbakery/js_composer/config/map.php:838
+#: wpbakery/js_composer/config/map.php:950
+#@ js_composer
+#@ qode
+msgid "Title"
+msgstr ""
+
+#: extendvc/extend-vc.php:1108
+#: extendvc/extend-vc.php:1292
+#: extendvc/extend-vc.php:2286
+#: extendvc/extend-vc.php:2702
+#: extendvc/extend-vc.php:2801
+#: extendvc/extend-vc.php:3058
+#: extendvc/extend-vc.php:3543
+#: extendvc/extend-vc.php:3611
+#: wpbakery/js_composer/config/map.php:776
+#: wpbakery/js_composer/config/map.php:916
+#@ js_composer
+msgid "Link"
+msgstr ""
+
+#: extendvc/extend-vc.php:1116
+#: extendvc/extend-vc.php:1300
+#: wpbakery/js_composer/config/map.php:389
+#@ js_composer
+msgid "Link Target"
+msgstr ""
+
+#: extendvc/extend-vc.php:1154
+#: extendvc/extend-vc.php:1435
+#: extendvc/extend-vc.php:1542
+#: extendvc/extend-vc.php:1808
+#: extendvc/extend-vc.php:1853
+#: extendvc/extend-vc.php:2232
+#: extendvc/extend-vc.php:2328
+#: extendvc/extend-vc.php:2463
+#: extendvc/extend-vc.php:2484
+#: extendvc/extend-vc.php:2557
+#: extendvc/extend-vc.php:3493
+#: extendvc/extend-vc.php:3577
+#: wpbakery/js_composer/config/map.php:32
+#: wpbakery/js_composer/config/map.php:83
+#: wpbakery/js_composer/config/map.php:147
+#: wpbakery/js_composer/config/map.php:156
+#: wpbakery/js_composer/config/map.php:190
+#: wpbakery/js_composer/config/map.php:308
+#: wpbakery/js_composer/config/map.php:351
+#: wpbakery/js_composer/config/map.php:409
+#: wpbakery/js_composer/config/map.php:486
+#: wpbakery/js_composer/config/map.php:533
+#: wpbakery/js_composer/config/map.php:600
+#: wpbakery/js_composer/config/map.php:732
+#: wpbakery/js_composer/config/map.php:762
+#: wpbakery/js_composer/config/map.php:863
+#: wpbakery/js_composer/config/map.php:1041
+#: wpbakery/js_composer/config/map.php:1102
+#: wpbakery/js_composer/config/map.php:1176
+#: wpbakery/js_composer/config/map.php:1206
+#: wpbakery/js_composer/config/map.php:1302
+#: wpbakery/js_composer/config/map.php:1354
+#: wpbakery/js_composer/config/map.php:1413
+#: wpbakery/js_composer/config/map.php:1487
+#: wpbakery/js_composer/config/map.php:1529
+#: wpbakery/js_composer/config/map.php:1576
+#: wpbakery/js_composer/config/map.php:1617
+#@ js_composer
+msgid "Content"
+msgstr ""
+
+#: extendvc/extend-vc.php:1164
+#@ js_composer
+msgid "Blockquote"
+msgstr ""
+
+#: extendvc/extend-vc.php:1175
+#: extendvc/extend-vc.php:1251
+#: extendvc/extend-vc.php:1634
+#: extendvc/extend-vc.php:1756
+#: extendvc/extend-vc.php:2028
+#: extendvc/extend-vc.php:3042
+#: includes/qode-options.php:2462
+#: wpbakery/js_composer/composer/lib/shortcodes/example.php:111
+#: wpbakery/js_composer/config/map.php:88
+#: wpbakery/js_composer/config/map.php:1107
+#: wpbakery/js_composer/config/map.php:1868
+#: wpbakery/js_composer/config/map.php:1882
+#@ js_composer
+#@ qode
+msgid "Text"
+msgstr ""
+
+#: extendvc/extend-vc.php:1177
+#@ js_composer
+msgid "Blockquote text"
+msgstr ""
+
+#: extendvc/extend-vc.php:1191
+#: extendvc/extend-vc.php:1784
+#: extendvc/extend-vc.php:1829
+#: extendvc/extend-vc.php:2184
+#: extendvc/extend-vc.php:3403
+#@ js_composer
+msgid "Width"
+msgstr ""
+
+#: extendvc/extend-vc.php:1193
+#@ js_composer
+msgid "Width (%)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1199
+#@ js_composer
+msgid "Line Height"
+msgstr ""
+
+#: extendvc/extend-vc.php:1201
+#@ js_composer
+msgid "Line Height (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1224
+#: wpbakery/js_composer/config/map.php:1038
+#@ js_composer
+msgid "Button"
+msgstr ""
+
+#: extendvc/extend-vc.php:1235
+#: extendvc/extend-vc.php:2086
+#: extendvc/extend-vc.php:2578
+#: extendvc/extend-vc.php:2788
+#: wpbakery/js_composer/config/map.php:1081
+#: wpbakery/js_composer/config/map.php:1148
+#@ js_composer
+msgid "Size"
+msgstr ""
+
+#: extendvc/extend-vc.php:1267
+#: extendvc/extend-vc.php:1718
+#: extendvc/extend-vc.php:2912
+#: extendvc/extend-vc.php:3431
+#@ js_composer
+msgid "Icon Size"
+msgstr ""
+
+#: extendvc/extend-vc.php:1338
+#: extendvc/extend-vc.php:2384
+#@ js_composer
+msgid "Font Style"
+msgstr ""
+
+#: extendvc/extend-vc.php:1351
+#: extendvc/extend-vc.php:2543
+#@ js_composer
+msgid "Font Weight"
+msgstr ""
+
+#: extendvc/extend-vc.php:1397
+#: extendvc/extend-vc.php:2956
+#: extendvc/extend-vc.php:3417
+#: extendvc/extend-vc.php:3597
+#: wpbakery/js_composer/config/map.php:361
+#@ js_composer
+msgid "Image"
+msgstr ""
+
+#: extendvc/extend-vc.php:1493
+#: extendvc/extend-vc.php:2899
+#@ js_composer
+msgid "Icon Type"
+msgstr ""
+
+#: extendvc/extend-vc.php:1507
+#@ js_composer
+msgid "Custom Icon"
+msgstr ""
+
+#: extendvc/extend-vc.php:1530
+#@ js_composer
+msgid "Close Button Style"
+msgstr ""
+
+#: extendvc/extend-vc.php:1563
+#: extendvc/extend-vc.php:1662
+#: extendvc/extend-vc.php:1906
+#@ js_composer
+msgid "Percentage"
+msgstr ""
+
+#: extendvc/extend-vc.php:1571
+#: extendvc/extend-vc.php:1914
+#: extendvc/extend-vc.php:2020
+#@ js_composer
+msgid "Percentage Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1579
+#: extendvc/extend-vc.php:1670
+#@ js_composer
+msgid "Bar Active Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1587
+#: extendvc/extend-vc.php:1678
+#@ js_composer
+msgid "Bar Noactive Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1595
+#: extendvc/extend-vc.php:1686
+#@ js_composer
+msgid "Pie Chart Line Width (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1792
+#: extendvc/extend-vc.php:1837
+#: extendvc/extend-vc.php:2192
+#@ js_composer
+msgid "Height"
+msgstr ""
+
+#: extendvc/extend-vc.php:1800
+#: extendvc/extend-vc.php:1845
+#@ js_composer
+msgid "Legend Text Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1922
+#@ js_composer
+msgid "Active Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1930
+#@ js_composer
+msgid "No active Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1938
+#@ js_composer
+msgid "Progress Bar Height (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1988
+#@ js_composer
+msgid "Title Size"
+msgstr ""
+
+#: extendvc/extend-vc.php:2004
+#@ js_composer
+msgid "Percent"
+msgstr ""
+
+#: extendvc/extend-vc.php:2012
+#@ js_composer
+msgid "Percentage Text Size"
+msgstr ""
+
+#: extendvc/extend-vc.php:2030
+#@ js_composer
+msgid "Put some content here"
+msgstr ""
+
+#: extendvc/extend-vc.php:2049
+#@ js_composer
+msgid "Number of Icons"
+msgstr ""
+
+#: extendvc/extend-vc.php:2057
+#@ js_composer
+msgid "Number of Active Icons"
+msgstr ""
+
+#: extendvc/extend-vc.php:2101
+#: extendvc/extend-vc.php:2593
+#@ js_composer
+msgid "Custom Size (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2117
+#@ js_composer
+msgid "Icon Active Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:2133
+#@ js_composer
+msgid "Background Active Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:2143
+#: extendvc/extend-vc.php:2152
+#: extendvc/extend-vc.php:2650
+#: extendvc/extend-vc.php:2987
+#@ js_composer
+msgid "Only for Square type"
+msgstr ""
+
+#: extendvc/extend-vc.php:2150
+#@ js_composer
+msgid "Border Active Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:2160
+#@ js_composer
+msgid "Line Graph"
+msgstr ""
+
+#: extendvc/extend-vc.php:2200
+#: wpbakery/js_composer/config/map.php:1379
+#@ js_composer
+msgid "Custom Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:2208
+#@ js_composer
+msgid "Scale steps"
+msgstr ""
+
+#: extendvc/extend-vc.php:2216
+#@ js_composer
+msgid "Scale step width"
+msgstr ""
+
+#: extendvc/extend-vc.php:2224
+#@ js_composer
+msgid "Labels"
+msgstr ""
+
+#: extendvc/extend-vc.php:2226
+#@ js_composer
+msgid "Label 1, Label 2, Label 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:2255
+#@ js_composer
+msgid "Basic Plan"
+msgstr ""
+
+#: extendvc/extend-vc.php:2262
+#: woocommerce/cart/cart.php:29
+#@ js_composer
+#@ woocommerce
+msgid "Price"
+msgstr ""
+
+#: extendvc/extend-vc.php:2270
+#@ js_composer
+msgid "Currency"
+msgstr ""
+
+#: extendvc/extend-vc.php:2278
+#@ js_composer
+msgid "Price Period"
+msgstr ""
+
+#: extendvc/extend-vc.php:2294
+#: extendvc/extend-vc.php:2710
+#: extendvc/extend-vc.php:2809
+#: extendvc/extend-vc.php:3084
+#: extendvc/extend-vc.php:3551
+#: wpbakery/js_composer/config/map.php:1060
+#: wpbakery/js_composer/config/map.php:1127
+#@ js_composer
+msgid "Target"
+msgstr ""
+
+#: extendvc/extend-vc.php:2308
+#@ js_composer
+msgid "Button Text"
+msgstr ""
+
+#: extendvc/extend-vc.php:2316
+#@ js_composer
+msgid "Active"
+msgstr ""
+
+#: extendvc/extend-vc.php:2349
+#@ js_composer
+msgid "Custom Font"
+msgstr ""
+
+#: extendvc/extend-vc.php:2360
+#: includes/qode-options.php:655
+#: includes/qode-options.php:705
+#: includes/qode-options.php:756
+#: includes/qode-options.php:807
+#: includes/qode-options.php:858
+#: includes/qode-options.php:909
+#: includes/qode-options.php:965
+#: includes/qode-options.php:1069
+#: includes/qode-options.php:1293
+#: includes/qode-options.php:1349
+#: includes/qode-options.php:1404
+#: includes/qode-options.php:1458
+#: includes/qode-options.php:1512
+#: includes/qode-options.php:1755
+#: includes/qode-options.php:1818
+#@ js_composer
+#@ qode
+msgid "Font family"
+msgstr ""
+
+#: extendvc/extend-vc.php:2362
+#@ js_composer
+msgid "Oswald"
+msgstr ""
+
+#: extendvc/extend-vc.php:2368
+#@ js_composer
+msgid "Font size"
+msgstr ""
+
+#: extendvc/extend-vc.php:2376
+#@ js_composer
+msgid "Line height"
+msgstr ""
+
+#: extendvc/extend-vc.php:2409
+#: includes/qode-options.php:681
+#: includes/qode-options.php:731
+#: includes/qode-options.php:782
+#: includes/qode-options.php:833
+#: includes/qode-options.php:884
+#: includes/qode-options.php:935
+#: includes/qode-options.php:991
+#: includes/qode-options.php:1034
+#: includes/qode-options.php:1095
+#: includes/qode-options.php:1319
+#: includes/qode-options.php:1375
+#: includes/qode-options.php:1429
+#: includes/qode-options.php:1483
+#: includes/qode-options.php:1537
+#: includes/qode-options.php:1781
+#: includes/qode-options.php:1844
+#@ js_composer
+#@ qode
+msgid "Font weight"
+msgstr ""
+
+#: extendvc/extend-vc.php:2425
+#@ js_composer
+msgid "Text decoration"
+msgstr ""
+
+#: extendvc/extend-vc.php:2447
+#@ js_composer
+msgid "Padding (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2455
+#@ js_composer
+msgid "Margin (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2518
+#@ js_composer
+msgid "Number Type"
+msgstr ""
+
+#: extendvc/extend-vc.php:2531
+#@ js_composer
+msgid "Animate List"
+msgstr ""
+
+#: extendvc/extend-vc.php:2673
+#@ js_composer
+msgid "Margin"
+msgstr ""
+
+#: extendvc/extend-vc.php:2675
+#@ js_composer
+msgid "Margin (top right bottom left)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2681
+#: extendvc/extend-vc.php:2935
+#@ js_composer
+msgid "Icon Animation"
+msgstr ""
+
+#: extendvc/extend-vc.php:2693
+#: extendvc/extend-vc.php:2947
+#@ js_composer
+msgid "Icon Animation Delay (ms)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2839
+#@ js_composer
+msgid "Icon With Text"
+msgstr ""
+
+#: extendvc/extend-vc.php:2850
+#@ js_composer
+msgid "Box type"
+msgstr ""
+
+#: extendvc/extend-vc.php:2862
+#@ js_composer
+msgid "Box Border"
+msgstr ""
+
+#: extendvc/extend-vc.php:2874
+#@ js_composer
+msgid "Box Border Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:2882
+#@ js_composer
+msgid "Box Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:2927
+#@ js_composer
+msgid "Custom Icon Size (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2963
+#@ js_composer
+msgid "Icon Position"
+msgstr ""
+
+#: extendvc/extend-vc.php:2969
+#@ js_composer
+msgid "Icon Position (only for normal box type)"
+msgstr ""
+
+#: extendvc/extend-vc.php:2976
+#@ js_composer
+msgid "Icon Margin"
+msgstr ""
+
+#: extendvc/extend-vc.php:3004
+#@ js_composer
+msgid "Icon Background Color (only for square and circle icon type)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1130
+#: extendvc/extend-vc.php:3067
+#@ js_composer
+msgid "Link Text"
+msgstr ""
+
+#: extendvc/extend-vc.php:3076
+#@ js_composer
+msgid "Link Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:3101
+#@ js_composer
+msgid "Latest Posts"
+msgstr ""
+
+#: extendvc/extend-vc.php:3112
+#@ js_composer
+msgid "Number of Posts per Row"
+msgstr ""
+
+#: extendvc/extend-vc.php:3125
+#@ js_composer
+msgid "Number of Rows"
+msgstr ""
+
+#: extendvc/extend-vc.php:3163
+#@ js_composer
+msgid "Category Slug"
+msgstr ""
+
+#: extendvc/extend-vc.php:3165
+#@ js_composer
+msgid "Leave empty for all or use comma for list"
+msgstr ""
+
+#: extendvc/extend-vc.php:3171
+#@ js_composer
+msgid "Text length"
+msgstr ""
+
+#: extendvc/extend-vc.php:3173
+#@ js_composer
+msgid "Number of caracters"
+msgstr ""
+
+#: extendvc/extend-vc.php:3195
+#@ js_composer
+msgid "Steps"
+msgstr ""
+
+#: extendvc/extend-vc.php:3205
+#@ js_composer
+msgid "Number Of Steps"
+msgstr ""
+
+#: extendvc/extend-vc.php:3213
+#@ js_composer
+msgid "Number of steps in the process"
+msgstr ""
+
+#: extendvc/extend-vc.php:3219
+#@ js_composer
+msgid "Number Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:3227
+#@ js_composer
+msgid "Number Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:3237
+#@ js_composer
+msgid "Image 1"
+msgstr ""
+
+#: extendvc/extend-vc.php:3244
+#@ js_composer
+msgid "Step Number 1"
+msgstr ""
+
+#: extendvc/extend-vc.php:3252
+#@ js_composer
+msgid "Step Link 1"
+msgstr ""
+
+#: extendvc/extend-vc.php:3259
+#@ js_composer
+msgid "Step Link Target 1"
+msgstr ""
+
+#: extendvc/extend-vc.php:3275
+#@ js_composer
+msgid "Image 2"
+msgstr ""
+
+#: extendvc/extend-vc.php:3282
+#@ js_composer
+msgid "Step Number 2"
+msgstr ""
+
+#: extendvc/extend-vc.php:3290
+#@ js_composer
+msgid "Step Link 2"
+msgstr ""
+
+#: extendvc/extend-vc.php:3297
+#@ js_composer
+msgid "Step Link Target 2"
+msgstr ""
+
+#: extendvc/extend-vc.php:3314
+#@ js_composer
+msgid "Image 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:3321
+#@ js_composer
+msgid "Step Number 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:3330
+#@ js_composer
+msgid "Step Link 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:3338
+#@ js_composer
+msgid "Step Link Target 3"
+msgstr ""
+
+#: extendvc/extend-vc.php:3354
+#@ js_composer
+msgid "Image 4"
+msgstr ""
+
+#: extendvc/extend-vc.php:3361
+#@ js_composer
+msgid "Step Number 4"
+msgstr ""
+
+#: extendvc/extend-vc.php:3370
+#@ js_composer
+msgid "Step Link 4"
+msgstr ""
+
+#: extendvc/extend-vc.php:3378
+#@ js_composer
+msgid "Step Link Target 4"
+msgstr ""
+
+#: extendvc/extend-vc.php:3470
+#@ js_composer
+msgid "Title Size (px)"
+msgstr ""
+
+#: extendvc/extend-vc.php:3505
+#@ js_composer
+msgid "Service"
+msgstr ""
+
+#: extendvc/extend-vc.php:3564
+#@ js_composer
+msgid "Animate"
+msgstr ""
+
+#: extendvc/extend-vc.php:3604
+#@ js_composer
+msgid "Hover Image"
+msgstr ""
+
+#: extendvc/extend-vc.php:3619
+#@ js_composer
+msgid "Animation"
+msgstr ""
+
+#: extendvc/extend-vc.php:3647
+#@ js_composer
+msgid "Order Tracking"
+msgstr ""
+
+#: extendvc/extend-vc.php:3651
+#: extendvc/extend-vc.php:3663
+#: extendvc/extend-vc.php:3692
+#: extendvc/extend-vc.php:3722
+#: extendvc/extend-vc.php:3751
+#: extendvc/extend-vc.php:3772
+#: extendvc/extend-vc.php:3833
+#: extendvc/extend-vc.php:3886
+#: extendvc/extend-vc.php:3939
+#: extendvc/extend-vc.php:3951
+#: extendvc/extend-vc.php:3963
+#: extendvc/extend-vc.php:3975
+#: extendvc/extend-vc.php:3987
+#: extendvc/extend-vc.php:3999
+#: extendvc/extend-vc.php:4011
+#: extendvc/extend-vc.php:4023
+#: extendvc/extend-vc.php:4035
+#@ js_composer
+msgid "Woocommerce"
+msgstr ""
+
+#: extendvc/extend-vc.php:3659
+#@ js_composer
+msgid "Product price/cart button"
+msgstr ""
+
+#: extendvc/extend-vc.php:3670
+#: extendvc/extend-vc.php:3699
+#: wpbakery/js_composer/config/map.php:838
+#: wpbakery/js_composer/config/map.php:950
+#@ js_composer
+msgid "ID"
+msgstr ""
+
+#: extendvc/extend-vc.php:3678
+#: extendvc/extend-vc.php:3707
+#@ js_composer
+msgid "SKU"
+msgstr ""
+
+#: extendvc/extend-vc.php:3688
+#@ js_composer
+msgid "Product by SKU/ID"
+msgstr ""
+
+#: extendvc/extend-vc.php:3718
+#@ js_composer
+msgid "Products by SKU/ID"
+msgstr ""
+
+#: extendvc/extend-vc.php:3729
+#@ js_composer
+msgid "IDS"
+msgstr ""
+
+#: extendvc/extend-vc.php:3737
+#@ js_composer
+msgid "SKUS"
+msgstr ""
+
+#: extendvc/extend-vc.php:3747
+#@ js_composer
+msgid "Product categories"
+msgstr ""
+
+#: extendvc/extend-vc.php:3768
+#@ js_composer
+msgid "Products by category slug"
+msgstr ""
+
+#: extendvc/extend-vc.php:3787
+#: extendvc/extend-vc.php:3840
+#: extendvc/extend-vc.php:3893
+#@ js_composer
+msgid "Per Page"
+msgstr ""
+
+#: extendvc/extend-vc.php:3829
+#@ js_composer
+msgid "Recent products"
+msgstr ""
+
+#: extendvc/extend-vc.php:3882
+#@ js_composer
+msgid "Featured products"
+msgstr ""
+
+#: extendvc/extend-vc.php:3935
+#@ js_composer
+msgid "Shop Messages"
+msgstr ""
+
+#: extendvc/extend-vc.php:3947
+#@ js_composer
+msgid "Pages - Cart"
+msgstr ""
+
+#: extendvc/extend-vc.php:3959
+#@ js_composer
+msgid "Pages - Checkout"
+msgstr ""
+
+#: extendvc/extend-vc.php:3971
+#@ js_composer
+msgid "Pages - My Account"
+msgstr ""
+
+#: extendvc/extend-vc.php:3983
+#@ js_composer
+msgid "Pages - Edit Address"
+msgstr ""
+
+#: extendvc/extend-vc.php:3995
+#@ js_composer
+msgid "Pages - Change Password"
+msgstr ""
+
+#: extendvc/extend-vc.php:4007
+#@ js_composer
+msgid "Pages - View Order"
+msgstr ""
+
+#: extendvc/extend-vc.php:4019
+#@ js_composer
+msgid "Pages - Pay"
+msgstr ""
+
+#: extendvc/extend-vc.php:4031
+#@ js_composer
+msgid "Pages - Thankyou"
+msgstr ""
+
+#: extendvc/vc_templates/vc_accordion_tab.php:5
+#: wpbakery/js_composer/composer/build.php:330
+#: wpbakery/js_composer/composer/build.php:333
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_accordion_tab.php:5
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_parallax_section.php:5
+#@ js_composer
+msgid "Section"
+msgstr ""
+
+#: extendvc/vc_templates/vc_accordion_tab.php:40
+#: extendvc/vc_templates/vc_tab.php:9
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_accordion_tab.php:12
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_tab.php:9
+#@ js_composer
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: extendvc/vc_templates/vc_tabs.php:55
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_tabs.php:44
+#@ js_composer
+msgid "Previous slide"
+msgstr ""
+
+#: extendvc/vc_templates/vc_tabs.php:55
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_tabs.php:44
+#@ js_composer
+msgid "Next slide"
+msgstr ""
+
+#: functions.php:213
+#@ qode
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:842
+#@ qode
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:133
+#: includes/import/class.wordpress-importer.php:142
+#: includes/import/class.wordpress-importer.php:193
+#: includes/import/class.wordpress-importer.php:197
+#: includes/import/class.wordpress-importer.php:206
+#@ wordpress-importer
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:134
+#@ wordpress-importer
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:177
+#@ wordpress-importer
+msgid "All done."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:177
+#@ wordpress-importer
+msgid "Have fun!"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:178
+#@ wordpress-importer
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:198
+#, php-format
+#@ wordpress-importer
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:214
+#, php-format
+#@ wordpress-importer
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:239
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:265
+#@ wordpress-importer
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:266
+#@ wordpress-importer
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:268
+#, php-format
+#@ wordpress-importer
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:278
+#@ wordpress-importer
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:281
+#@ wordpress-importer
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:298
+#@ wordpress-importer
+msgid "Import author:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:309
+#@ wordpress-importer
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:312
+#@ wordpress-importer
+msgid "as a new user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:320
+#@ wordpress-importer
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:322
+#@ wordpress-importer
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:323
+#@ wordpress-importer
+msgid "- Select -"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:373
+#, php-format
+#@ wordpress-importer
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:424
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:464
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:510
+#: includes/import/class.wordpress-importer.php:651
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:536
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:558
+#, php-format
+#@ wordpress-importer
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:617
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:782
+#@ wordpress-importer
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:789
+#, php-format
+#@ wordpress-importer
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:855
+#@ wordpress-importer
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:868
+#@ wordpress-importer
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:912
+#@ wordpress-importer
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:918
+#, php-format
+#@ wordpress-importer
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:925
+#@ wordpress-importer
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:930
+#@ wordpress-importer
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:936
+#, php-format
+#@ wordpress-importer
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1036
+#@ wordpress-importer
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1043
+#, php-format
+#@ wordpress-importer
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1058
+#@ wordpress-importer
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1059
+#@ wordpress-importer
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/import/parsers.php:42
+#: includes/import/parsers.php:72
+#: includes/import/parsers.php:80
+#@ wordpress-importer
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/import/parsers.php:43
+#@ wordpress-importer
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: includes/import/parsers.php:84
+#: includes/import/parsers.php:89
+#: includes/import/parsers.php:279
+#: includes/import/parsers.php:468
+#@ wordpress-importer
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/import/qode-import.php:39
+#: includes/import/qode-import.php:64
+#@ qode
+msgid "Content imported successfully"
+msgstr ""
+
+#: includes/import/qode-import.php:61
+#@ qode
+msgid "An Error Occurred During Import"
+msgstr ""
+
+#: includes/import/qode-import.php:68
+#@ qode
+msgid "Error loading files"
+msgstr ""
+
+#: includes/import/qode-import.php:79
+#@ qode
+msgid "Widgets imported successfully"
+msgstr ""
+
+#: includes/import/qode-import.php:98
+#@ qode
+msgid "Custom sidebars imported successfully"
+msgstr ""
+
+#: includes/import/qode-import.php:104
+#@ qode
+msgid "Options imported successfully"
+msgstr ""
+
+#: includes/import/qode-import.php:137
+#@ qode
+msgid "File doesn't exist"
+msgstr ""
+
+#: includes/import/qode-import.php:180
+#@ qode
+msgid "Qode Import"
+msgstr ""
+
+#: includes/import/qode-import.php:188
+#@ qode
+msgid "Elision - One-Click Import Demo Content"
+msgstr ""
+
+#: includes/import/qode-import.php:196
+#@ qode
+msgid "Import"
+msgstr ""
+
+#: includes/import/qode-import.php:209
+#@ qode
+msgid "Import attachments"
+msgstr ""
+
+#: includes/import/qode-import.php:220
+#@ qode
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: includes/navmenu/edit_custom_walker.php:78
+#, php-format
+#@ qode
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: includes/navmenu/edit_custom_walker.php:82
+#, php-format
+#@ qode
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:106
+#@ qode
+msgid "Move up"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:119
+#@ qode
+msgid "Move down"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:121
+#: includes/navmenu/edit_custom_walker.php:123
+#@ qode
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:132
+#: wpbakery/js_composer/composer/lib/params/vc_link/vc_link.php:6
+#@ qode
+#@ js_composer
+msgid "URL"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:139
+#@ qode
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:145
+#@ qode
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:152
+#@ qode
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:157
+#@ qode
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:163
+#@ qode
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:169
+#: wpbakery/js_composer/config/map.php:900
+#@ qode
+#@ js_composer
+msgid "Description"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:171
+#@ qode
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:190
+#@ qode
+msgid "Don't link"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:200
+#@ qode
+msgid "Don't show"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:215
+#@ qode
+msgid "Wide menu position"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:237
+#@ qode
+msgid "Only with \"wide with icons\" menu type"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:244
+#@ qode
+msgid "Custom widget area"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:260
+#@ qode
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:269
+#, php-format
+#@ qode
+msgid "Original: %s"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:282
+#@ qode
+msgid "Remove"
+msgstr ""
+
+#: includes/navmenu/edit_custom_walker.php:283
+#: woocommerce/myaccount/my-orders.php:77
+#: wpbakery/js_composer/composer/lib/layouts.php:226
+#@ qode
+#@ woocommerce
+#@ js_composer
+msgid "Cancel"
+msgstr ""
+
+#: functions.php:1300
+#: includes/class-tgm-plugin-activation.php:155
+#@ qode
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:1301
+#: includes/class-tgm-plugin-activation.php:156
+#@ qode
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:1302
+#: includes/class-tgm-plugin-activation.php:157
+#, php-format
+#@ qode
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:158
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: functions.php:1304
+#: includes/class-tgm-plugin-activation.php:159
+#, php-format
+#@ qode
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1305
+#: includes/class-tgm-plugin-activation.php:160
+#, php-format
+#@ qode
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1306
+#: includes/class-tgm-plugin-activation.php:161
+#, php-format
+#@ qode
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1307
+#: includes/class-tgm-plugin-activation.php:162
+#, php-format
+#@ qode
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1308
+#: includes/class-tgm-plugin-activation.php:163
+#, php-format
+#@ qode
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1309
+#: includes/class-tgm-plugin-activation.php:164
+#, php-format
+#@ qode
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1310
+#: includes/class-tgm-plugin-activation.php:165
+#, php-format
+#@ qode
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1311
+#: includes/class-tgm-plugin-activation.php:166
+#, php-format
+#@ qode
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1312
+#: includes/class-tgm-plugin-activation.php:167
+#@ qode
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1313
+#: includes/class-tgm-plugin-activation.php:168
+#@ qode
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1314
+#: includes/class-tgm-plugin-activation.php:169
+#@ qode
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:170
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: functions.php:1315
+#: includes/class-tgm-plugin-activation.php:171
+#: includes/class-tgm-plugin-activation.php:1840
+#@ qode
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:173
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:174
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1085
+#@ tgmpa
+msgid "External Link"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1090
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1093
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1097
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1103
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1105
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1275
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1291
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1292
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1294
+#: woocommerce/myaccount/my-orders.php:34
+#@ tgmpa
+#@ woocommerce
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1312
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1313
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: includes/class-tgm-plugin-activation.php:1538
+#: includes/class-tgm-plugin-activation.php:172
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:1823
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1824
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1825
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1826
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1827
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1828
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1839
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1949
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1950
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1950
+#: includes/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1950
+#: includes/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1951
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1952
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1956
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1957
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1960
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2052
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions.php:1303
+#@ qode
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:1316
+#, php-format
+#@ qode
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:19
+#@ qode
+msgid "Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:20
+#@ qode
+msgid "New Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:21
+#@ qode
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:22
+#@ qode
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:36
+#@ qode
+msgid "Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:37
+#@ qode
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:38
+#@ qode
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:39
+#@ qode
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:55
+#: includes/qode-custom-post-types.php:56
+#@ qode
+msgid "Qode Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:57
+#@ qode
+msgid "Slides"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:58
+#: includes/qode-custom-post-types.php:61
+#@ qode
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:59
+#: wpbakery/js_composer/composer/build.php:328
+#: wpbakery/js_composer/composer/lib/shortcodes/tour.php:4
+#@ qode
+#@ js_composer
+msgid "Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:60
+#@ qode
+msgid "New Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:62
+#@ qode
+msgid "Edit Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:81
+#@ qode
+msgid "Carousel Items"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:82
+#: includes/qode-custom-post-types.php:85
+#@ qode
+msgid "Add New Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:83
+#@ qode
+msgid "Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:84
+#@ qode
+msgid "New Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:86
+#@ qode
+msgid "Edit Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:103
+#: includes/qode-custom-post-types.php:113
+#@ taxonomy general name
+#@ qode
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:104
+#@ taxonomy singular name
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:105
+#@ qode
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:106
+#@ qode
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:107
+#@ qode
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:108
+#@ qode
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:109
+#@ qode
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:110
+#@ qode
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:111
+#@ qode
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:112
+#@ qode
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:128
+#: includes/qode-custom-post-types.php:138
+#@ taxonomy general name
+#@ qode
+msgid "Testimonials Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:129
+#@ taxonomy singular name
+msgid "Testimonial Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:130
+#@ qode
+msgid "Search Testimonials Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:131
+#@ qode
+msgid "All Testimonials Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:132
+#@ qode
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:133
+#@ qode
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:134
+#@ qode
+msgid "Edit Testimonials Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:135
+#@ qode
+msgid "Update Testimonials Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:136
+#@ qode
+msgid "Add New Testimonials Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:137
+#@ qode
+msgid "New Testimonials Category Name"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:155
+#: includes/qode-custom-post-types.php:165
+#@ taxonomy general name
+#@ qode
+msgid "Sliders"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:156
+#@ taxonomy singular name
+msgid "Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:157
+#@ qode
+msgid "Search Sliders"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:158
+#@ qode
+msgid "All Sliders"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:159
+#@ qode
+msgid "Parent Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:160
+#@ qode
+msgid "Parent Slider:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:161
+#@ qode
+msgid "Edit Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:162
+#@ qode
+msgid "Update Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:163
+#@ qode
+msgid "Add New Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:164
+#@ qode
+msgid "New Slider Name"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:182
+#: includes/qode-custom-post-types.php:192
+#@ taxonomy general name
+#@ qode
+msgid "Carousels"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:183
+#: wpbakery/js_composer/config/map.php:792
+#@ taxonomy singular name
+#@ js_composer
+msgid "Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:184
+#@ qode
+msgid "Search Carousels"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:185
+#@ qode
+msgid "All Carousels"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:186
+#@ qode
+msgid "Parent Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:187
+#@ qode
+msgid "Parent Carousel:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:188
+#@ qode
+msgid "Edit Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:189
+#@ qode
+msgid "Update Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:190
+#@ qode
+msgid "Add New Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:191
+#@ qode
+msgid "New Carousel Name"
+msgstr ""
+
+#: functions.php:765
+#@ qode
+msgid "Slider shortcode"
+msgstr ""
+
+#: functions.php:769
+#@ qode
+msgid "Use this shortcode to insert it on page"
+msgstr ""
+
+#: functions.php:799
+#@ qode
+msgid "Name"
+msgstr ""
+
+#: functions.php:800
+#@ qode
+msgid "Shortcode"
+msgstr ""
+
+#: functions.php:802
+#@ qode
+msgid "Slug"
+msgstr ""
+
+#: functions.php:803
+#@ qode
+msgid "Posts"
+msgstr ""
+
+#: includes/qode-like.php:69
+#: includes/qode-like.php:84
+#@ qode
+msgid "Like this"
+msgstr ""
+
+#: includes/qode-like.php:72
+#: includes/qode-like.php:87
+#@ qode
+msgid "You already like this!"
+msgstr ""
+
+#: includes/qode-options.php:288
+#@ qode
+msgid "Qode Options"
+msgstr ""
+
+#: includes/qode-options.php:295
+#: wpbakery/js_composer/config/map.php:1392
+#: wpbakery/js_composer/config/map.php:1965
+#: wpbakery/js_composer/config/map.php:1998
+#: wpbakery/js_composer/config/map.php:2027
+#: wpbakery/js_composer/config/map.php:2070
+#@ qode
+#@ js_composer
+msgid "Options"
+msgstr ""
+
+#: includes/qode-options.php:306
+#@ qode
+msgid "Settings saved."
+msgstr ""
+
+#: includes/qode-options.php:313
+#, php-format
+#@ qode
+msgid "Elision - Theme Options - Version %1$s"
+msgstr ""
+
+#: includes/qode-options.php:328
+#: includes/qode-options.php:331
+#@ qode
+msgid "Reset to defaults"
+msgstr ""
+
+#: includes/qode-options.php:336
+#: includes/qode-options.php:2580
+#: wpbakery/js_composer/composer/settings/settings.php:734
+#: wpbakery/js_composer/composer/settings/settings.php:743
+#@ qode
+#@ js_composer
+msgid "Save Changes"
+msgstr ""
+
+#: includes/qode-options.php:391
+#@ qode
+msgid "First main color"
+msgstr ""
+
+#: includes/qode-options.php:395
+#@ qode
+msgid "Default first main color"
+msgstr ""
+
+#: includes/qode-options.php:400
+#@ qode
+msgid "Second main color"
+msgstr ""
+
+#: includes/qode-options.php:404
+#@ qode
+msgid "Default second main color"
+msgstr ""
+
+#: includes/qode-options.php:409
+#@ qode
+msgid "Third main color"
+msgstr ""
+
+#: includes/qode-options.php:413
+#@ qode
+msgid "Default third main color"
+msgstr ""
+
+#: includes/qode-options.php:418
+#@ qode
+msgid "Fourth main color"
+msgstr ""
+
+#: includes/qode-options.php:422
+#@ qode
+msgid "Default fourth main color"
+msgstr ""
+
+#: includes/qode-options.php:427
+#@ qode
+msgid "Background color (content)"
+msgstr ""
+
+#: includes/qode-options.php:431
+#@ qode
+msgid "Default background color"
+msgstr ""
+
+#: includes/qode-options.php:436
+#@ qode
+msgid "Background color (body)"
+msgstr ""
+
+#: includes/qode-options.php:440
+#@ qode
+msgid "Default boxed background color"
+msgstr ""
+
+#: includes/qode-options.php:445
+#@ qode
+msgid "Highlight color"
+msgstr ""
+
+#: includes/qode-options.php:449
+#@ qode
+msgid "Default highlight color"
+msgstr ""
+
+#: includes/qode-options.php:454
+#@ qode
+msgid "Selection color"
+msgstr ""
+
+#: includes/qode-options.php:458
+#@ qode
+msgid "Default selection color"
+msgstr ""
+
+#: includes/qode-options.php:463
+#@ qode
+msgid "Background image"
+msgstr ""
+
+#: includes/qode-options.php:472
+#@ qode
+msgid "Pattern background image"
+msgstr ""
+
+#: includes/qode-options.php:481
+#@ qode
+msgid "Favicon image"
+msgstr ""
+
+#: includes/qode-options.php:490
+#@ qode
+msgid "Google fonts"
+msgstr ""
+
+#: includes/qode-options.php:499
+#@ qode
+msgid "Choose Font"
+msgstr ""
+
+#: includes/qode-options.php:503
+#@ qode
+msgid "Page transition"
+msgstr ""
+
+#: includes/qode-options.php:512
+#@ qode
+msgid "In order for animation to work properly, you must choose \"Post name\" in permalinks settings"
+msgstr ""
+
+#: includes/qode-options.php:516
+#@ qode
+msgid "Boxed"
+msgstr ""
+
+#: includes/qode-options.php:525
+#@ qode
+msgid "Loading animation"
+msgstr ""
+
+#: includes/qode-options.php:534
+#@ qode
+msgid "Loading image"
+msgstr ""
+
+#: includes/qode-options.php:543
+#@ qode
+msgid "Smooth scroll"
+msgstr ""
+
+#: includes/qode-options.php:553
+#@ qode
+msgid "Responsiveness"
+msgstr ""
+
+#: includes/qode-options.php:562
+#@ qode
+msgid "Show back button"
+msgstr ""
+
+#: includes/qode-options.php:580
+#@ qode
+msgid "Google Analytics Account ID"
+msgstr ""
+
+#: includes/qode-options.php:586
+#@ qode
+msgid "List of internal URLs loaded without AJAX (separated with comma)"
+msgstr ""
+
+#: includes/qode-options.php:595
+#@ qode
+msgid "Custom css"
+msgstr ""
+
+#: includes/qode-options.php:604
+#@ qode
+msgid "Custom js"
+msgstr ""
+
+#: includes/qode-options.php:609
+#@ qode
+msgid "jQuery selector is \"$j\" because of the conflict mode"
+msgstr ""
+
+#: includes/qode-options.php:613
+#@ qode
+msgid "Meta Keywords"
+msgstr ""
+
+#: includes/qode-options.php:621
+#@ qode
+msgid "Meta Description"
+msgstr ""
+
+#: includes/qode-options.php:629
+#@ qode
+msgid "Disable Qode SEO"
+msgstr ""
+
+#: includes/qode-options.php:647
+#@ qode
+msgid "H1 style"
+msgstr ""
+
+#: includes/qode-options.php:668
+#: includes/qode-options.php:718
+#: includes/qode-options.php:769
+#: includes/qode-options.php:820
+#: includes/qode-options.php:871
+#: includes/qode-options.php:922
+#: includes/qode-options.php:978
+#: includes/qode-options.php:1082
+#: includes/qode-options.php:1306
+#: includes/qode-options.php:1362
+#: includes/qode-options.php:1417
+#: includes/qode-options.php:1471
+#: includes/qode-options.php:1525
+#: includes/qode-options.php:1768
+#: includes/qode-options.php:1831
+#@ qode
+msgid "Line height (px)"
+msgstr ""
+
+#: includes/qode-options.php:672
+#: includes/qode-options.php:722
+#: includes/qode-options.php:773
+#: includes/qode-options.php:824
+#: includes/qode-options.php:875
+#: includes/qode-options.php:926
+#: includes/qode-options.php:982
+#: includes/qode-options.php:1025
+#: includes/qode-options.php:1086
+#: includes/qode-options.php:1310
+#: includes/qode-options.php:1366
+#: includes/qode-options.php:1421
+#: includes/qode-options.php:1475
+#: includes/qode-options.php:1529
+#: includes/qode-options.php:1772
+#: includes/qode-options.php:1835
+#@ qode
+msgid "Font style"
+msgstr ""
+
+#: includes/qode-options.php:697
+#@ qode
+msgid "H2 style"
+msgstr ""
+
+#: includes/qode-options.php:748
+#@ qode
+msgid "H3 style"
+msgstr ""
+
+#: includes/qode-options.php:799
+#@ qode
+msgid "H4 style"
+msgstr ""
+
+#: includes/qode-options.php:850
+#@ qode
+msgid "H5 style"
+msgstr ""
+
+#: includes/qode-options.php:901
+#@ qode
+msgid "H6 style"
+msgstr ""
+
+#: includes/qode-options.php:950
+#: includes/qode-options.php:1566
+#@ qode
+msgid "Letter spacing"
+msgstr ""
+
+#: includes/qode-options.php:957
+#@ qode
+msgid "Text style"
+msgstr ""
+
+#: includes/qode-options.php:1006
+#@ qode
+msgid "Top/Bottom margin (px)"
+msgstr ""
+
+#: includes/qode-options.php:1012
+#@ qode
+msgid "Link style"
+msgstr ""
+
+#: includes/qode-options.php:1020
+#: includes/qode-options.php:1750
+#: wpbakery/js_composer/composer/settings/settings.php:42
+#@ qode
+#@ js_composer
+msgid "Hover color"
+msgstr ""
+
+#: includes/qode-options.php:1049
+#@ qode
+msgid "Font decoration"
+msgstr ""
+
+#: includes/qode-options.php:1061
+#@ qode
+msgid "Page title style"
+msgstr ""
+
+#: includes/qode-options.php:1121
+#@ qode
+msgid "Header in grid"
+msgstr ""
+
+#: includes/qode-options.php:1132
+#@ qode
+msgid "Show header top area"
+msgstr ""
+
+#: includes/qode-options.php:1154
+#@ qode
+msgid "Header style"
+msgstr ""
+
+#: includes/qode-options.php:1166
+#@ qode
+msgid "Menu in center"
+msgstr ""
+
+#: includes/qode-options.php:1177
+#: includes/qode-options.php:1556
+#@ qode
+msgid "Top background color"
+msgstr ""
+
+#: includes/qode-options.php:1187
+#: includes/qode-options.php:1561
+#@ qode
+msgid "Bottom background color"
+msgstr ""
+
+#: includes/qode-options.php:1190
+#: includes/qode-options.php:1205
+#@ qode
+msgid "Initial"
+msgstr ""
+
+#: includes/qode-options.php:1195
+#: includes/qode-options.php:1209
+#@ qode
+msgid "Sticky"
+msgstr ""
+
+#: includes/qode-options.php:1202
+#@ qode
+msgid "Transparency"
+msgstr ""
+
+#: includes/qode-options.php:1212
+#@ qode
+msgid "(from 0 to 1)"
+msgstr ""
+
+#: includes/qode-options.php:1216
+#@ qode
+msgid "Logo"
+msgstr ""
+
+#: includes/qode-options.php:1219
+#@ qode
+msgid "Logo image (normal/light)"
+msgstr ""
+
+#: includes/qode-options.php:1224
+#@ qode
+msgid "Logo image (dark)"
+msgstr ""
+
+#: includes/qode-options.php:1229
+#@ qode
+msgid "Logo image (sticky header)"
+msgstr ""
+
+#: includes/qode-options.php:1236
+#@ qode
+msgid "Center logo"
+msgstr ""
+
+#: includes/qode-options.php:1245
+#@ qode
+msgid "Header height"
+msgstr ""
+
+#: includes/qode-options.php:1248
+#@ qode
+msgid "Initial (px)"
+msgstr ""
+
+#: includes/qode-options.php:1252
+#@ qode
+msgid "Sticky (px)"
+msgstr ""
+
+#: includes/qode-options.php:1258
+#@ qode
+msgid "Scroll amount for sticky appear (px)"
+msgstr ""
+
+#: includes/qode-options.php:1266
+#@ qode
+msgid "Dropdown main menu"
+msgstr ""
+
+#: includes/qode-options.php:1274
+#@ qode
+msgid "Transparency (From 0 to 1)"
+msgstr ""
+
+#: includes/qode-options.php:1280
+#@ qode
+msgid "1st level menu style"
+msgstr ""
+
+#: includes/qode-options.php:1288
+#: includes/qode-options.php:1344
+#: includes/qode-options.php:1399
+#: includes/qode-options.php:1453
+#: includes/qode-options.php:1507
+#@ qode
+msgid "Hover/Active color"
+msgstr ""
+
+#: includes/qode-options.php:1336
+#@ qode
+msgid "2nd level menu style"
+msgstr ""
+
+#: includes/qode-options.php:1391
+#@ qode
+msgid "3rd level menu style"
+msgstr ""
+
+#: includes/qode-options.php:1445
+#@ qode
+msgid "Sticky menu"
+msgstr ""
+
+#: includes/qode-options.php:1499
+#@ qode
+msgid "Mobile menu style"
+msgstr ""
+
+#: includes/qode-options.php:1551
+#@ qode
+msgid "Separator color"
+msgstr ""
+
+#: includes/qode-options.php:1575
+#@ qode
+msgid "Title style"
+msgstr ""
+
+#: includes/qode-options.php:1577
+#: wpbakery/js_composer/config/map.php:231
+#: wpbakery/js_composer/config/map.php:269
+#@ qode
+#@ js_composer
+msgid "Standard"
+msgstr ""
+
+#: includes/qode-options.php:1578
+#@ qode
+msgid "Title on Bottom"
+msgstr ""
+
+#: includes/qode-options.php:1588
+#@ qode
+msgid "Responsive title image"
+msgstr ""
+
+#: includes/qode-options.php:1595
+#@ qode
+msgid "Title image"
+msgstr ""
+
+#: includes/qode-options.php:1601
+#@ qode
+msgid "Parallax title image"
+msgstr ""
+
+#: includes/qode-options.php:1607
+#: includes/qode-options.php:1612
+#@ qode
+msgid "Only if title image is not responsive"
+msgstr ""
+
+#: includes/qode-options.php:1610
+#@ qode
+msgid "Title height (px)"
+msgstr ""
+
+#: includes/qode-options.php:1616
+#@ qode
+msgid "Title position for standard title"
+msgstr ""
+
+#: includes/qode-options.php:1628
+#@ qode
+msgid "Footer in grid"
+msgstr ""
+
+#: includes/qode-options.php:1639
+#@ qode
+msgid "Show footer top"
+msgstr ""
+
+#: includes/qode-options.php:1650
+#@ qode
+msgid "Footer top columns"
+msgstr ""
+
+#: includes/qode-options.php:1663
+#@ qode
+msgid "Show footer bottom"
+msgstr ""
+
+#: includes/qode-options.php:1675
+#@ qode
+msgid "Footer top colors"
+msgstr ""
+
+#: includes/qode-options.php:1678
+#@ qode
+msgid "Title color"
+msgstr ""
+
+#: includes/qode-options.php:1683
+#: includes/qode-options.php:1698
+#@ qode
+msgid "Text color"
+msgstr ""
+
+#: includes/qode-options.php:1695
+#@ qode
+msgid "Footer bottom colors"
+msgstr ""
+
+#: includes/qode-options.php:1727
+#@ qode
+msgid "Thickness (px)"
+msgstr ""
+
+#: includes/qode-options.php:1731
+#@ qode
+msgid "Top margin (px)"
+msgstr ""
+
+#: includes/qode-options.php:1735
+#@ qode
+msgid "Bottom margin (px)"
+msgstr ""
+
+#: includes/qode-options.php:1742
+#@ qode
+msgid "Button style"
+msgstr ""
+
+#: includes/qode-options.php:1802
+#@ qode
+msgid "Hover background color"
+msgstr ""
+
+#: includes/qode-options.php:1810
+#@ qode
+msgid "Message box style"
+msgstr ""
+
+#: includes/qode-options.php:1872
+#@ qode
+msgid "Message icon style"
+msgstr ""
+
+#: includes/qode-options.php:1887
+#@ qode
+msgid "Blockquote style"
+msgstr ""
+
+#: includes/qode-options.php:1919
+#@ qode
+msgid "Smooth scroll style"
+msgstr ""
+
+#: includes/qode-options.php:1927
+#: wpbakery/js_composer/config/map.php:1377
+#: wpbakery/js_composer/config/map.php:1445
+#@ qode
+#@ js_composer
+msgid "Bar color"
+msgstr ""
+
+#: includes/qode-options.php:1942
+#@ qode
+msgid "Enable Side Area"
+msgstr ""
+
+#: includes/qode-options.php:1953
+#@ qode
+msgid "Side Area Title"
+msgstr ""
+
+#: includes/qode-options.php:1996
+#@ qode
+msgid "Enable Content Bottom Area"
+msgstr ""
+
+#: includes/qode-options.php:2007
+#@ qode
+msgid "Content bottom sidebar to display"
+msgstr ""
+
+#: includes/qode-options.php:2026
+#@ qode
+msgid "Content bottom in grid"
+msgstr ""
+
+#: includes/qode-options.php:2054
+#@ qode
+msgid "Parallax speed"
+msgstr ""
+
+#: includes/qode-options.php:2062
+#@ qode
+msgid "Parallax on touch devices"
+msgstr ""
+
+#: includes/qode-options.php:2073
+#@ qode
+msgid "Parallax min height (px)"
+msgstr ""
+
+#: includes/qode-options.php:2077
+#@ qode
+msgid "Set min-height for last two stages"
+msgstr ""
+
+#: includes/qode-options.php:2090
+#@ qode
+msgid "Portfolio style"
+msgstr ""
+
+#: includes/qode-options.php:2104
+#@ qode
+msgid "Portfolio Qode Like"
+msgstr ""
+
+#: includes/qode-options.php:2113
+#@ qode
+msgid "Lightbox for single project"
+msgstr ""
+
+#: includes/qode-options.php:2124
+#@ qode
+msgid "Number of columns for Portfolio gallery style"
+msgstr ""
+
+#: includes/qode-options.php:2136
+#@ qode
+msgid "Portfolio single slug"
+msgstr ""
+
+#: includes/qode-options.php:2140
+#@ qode
+msgid "Settings -> Permalinks"
+msgstr ""
+
+#: includes/qode-options.php:2161
+#@ qode
+msgid "Pagination"
+msgstr ""
+
+#: includes/qode-options.php:2170
+#@ qode
+msgid "Choose blog layout"
+msgstr ""
+
+#: includes/qode-options.php:2173
+#@ qode
+msgid "Blog Large Image"
+msgstr ""
+
+#: includes/qode-options.php:2174
+#@ qode
+msgid "Blog Masonry"
+msgstr ""
+
+#: includes/qode-options.php:2175
+#@ qode
+msgid "Blog Large Image Whole Post"
+msgstr ""
+
+#: includes/qode-options.php:2180
+#@ qode
+msgid "Blog sidebar"
+msgstr ""
+
+#: includes/qode-options.php:2190
+#@ qode
+msgid "For category list"
+msgstr ""
+
+#: includes/qode-options.php:2194
+#@ qode
+msgid "Hide comments"
+msgstr ""
+
+#: includes/qode-options.php:2203
+#@ qode
+msgid "Blog Qode Like"
+msgstr ""
+
+#: includes/qode-options.php:2212
+#@ qode
+msgid "Page Range For Pagination"
+msgstr ""
+
+#: includes/qode-options.php:2218
+#@ qode
+msgid "Number of words"
+msgstr ""
+
+#: includes/qode-options.php:2221
+#@ qode
+msgid "Number of words in blog listing"
+msgstr ""
+
+#: includes/qode-options.php:2225
+#@ qode
+msgid "Number of words in masonry blog template"
+msgstr ""
+
+#: includes/qode-options.php:2231
+#@ qode
+msgid "Number of words in large image blog template"
+msgstr ""
+
+#: includes/qode-options.php:2238
+#@ qode
+msgid "Sidebar layout"
+msgstr ""
+
+#: includes/qode-options.php:2251
+#@ qode
+msgid "Sidebar to display"
+msgstr ""
+
+#: includes/qode-options.php:2270
+#@ qode
+msgid "Show Blog Author"
+msgstr ""
+
+#: includes/qode-options.php:2283
+#@ qode
+msgid "Contact page"
+msgstr ""
+
+#: includes/qode-options.php:2288
+#@ qode
+msgid "Mail send to"
+msgstr ""
+
+#: includes/qode-options.php:2294
+#@ qode
+msgid "Enable Contact Form"
+msgstr ""
+
+#: includes/qode-options.php:2303
+#@ qode
+msgid "Hide Website Field"
+msgstr ""
+
+#: includes/qode-options.php:2312
+#@ qode
+msgid "Email From"
+msgstr ""
+
+#: includes/qode-options.php:2318
+#@ qode
+msgid "Email Subject"
+msgstr ""
+
+#: includes/qode-options.php:2324
+#@ qode
+msgid "Use reCaptcha"
+msgstr ""
+
+#: includes/qode-options.php:2333
+#@ qode
+msgid "ReCaptcha public key"
+msgstr ""
+
+#: includes/qode-options.php:2340
+#@ qode
+msgid "ReCaptcha private key"
+msgstr ""
+
+#: includes/qode-options.php:2346
+#@ qode
+msgid "Heading above contact form"
+msgstr ""
+
+#: includes/qode-options.php:2352
+#@ qode
+msgid "Enable Google Map"
+msgstr ""
+
+#: includes/qode-options.php:2362
+#@ qode
+msgid "Pin image"
+msgstr ""
+
+#: includes/qode-options.php:2371
+#@ qode
+msgid "Google map address"
+msgstr ""
+
+#: includes/qode-options.php:2374
+#@ qode
+msgid "Example (Louvre Museum, Paris, France)"
+msgstr ""
+
+#: includes/qode-options.php:2378
+#@ qode
+msgid "Google map address 2"
+msgstr ""
+
+#: includes/qode-options.php:2384
+#@ qode
+msgid "Google map address 3"
+msgstr ""
+
+#: includes/qode-options.php:2390
+#@ qode
+msgid "Google map address 4"
+msgstr ""
+
+#: includes/qode-options.php:2396
+#@ qode
+msgid "Google map address 5"
+msgstr ""
+
+#: includes/qode-options.php:2402
+#@ qode
+msgid "Google map zoom"
+msgstr ""
+
+#: includes/qode-options.php:2408
+#@ qode
+msgid "Google map height (px)"
+msgstr ""
+
+#: includes/qode-options.php:2414
+#@ qode
+msgid "Google map style"
+msgstr ""
+
+#: includes/qode-options.php:2423
+#@ qode
+msgid "Google map color"
+msgstr ""
+
+#: includes/qode-options.php:2432
+#@ qode
+msgid "Google map scroll on mouse wheel"
+msgstr ""
+
+#: includes/qode-options.php:2456
+#@ qode
+msgid "Subtitle"
+msgstr ""
+
+#: includes/qode-options.php:2468
+#@ qode
+msgid "Back to home label"
+msgstr ""
+
+#: includes/qode-options.php:2482
+#@ qode
+msgid "Enable Social Share"
+msgstr ""
+
+#: includes/qode-options.php:2491
+#@ qode
+msgid "Facebook"
+msgstr ""
+
+#: includes/qode-options.php:2494
+#@ qode
+msgid "Enable Facebook"
+msgstr ""
+
+#: includes/qode-options.php:2501
+#: includes/qode-options.php:2518
+#: includes/qode-options.php:2539
+#@ qode
+msgid "Share Icon"
+msgstr ""
+
+#: includes/qode-options.php:2508
+#@ qode
+msgid "Twitter"
+msgstr ""
+
+#: includes/qode-options.php:2511
+#@ qode
+msgid "Enable Twitter"
+msgstr ""
+
+#: includes/qode-options.php:2523
+#@ qode
+msgid "Via"
+msgstr ""
+
+#: includes/qode-options.php:2529
+#@ qode
+msgid "Google +"
+msgstr ""
+
+#: includes/qode-options.php:2532
+#@ qode
+msgid "Enable Google +"
+msgstr ""
+
+#: includes/qode-options.php:2546
+#@ qode
+msgid "Show For"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1538
+#: wpbakery/js_composer/composer/shortcodes_templates/teaser/_filter.php:10
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:322
+#@ qode
+#@ js_composer
+msgid "All"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1716
+#: includes/shortcodes/shortcodes.php:1840
+#: includes/shortcodes/shortcodes.php:2537
+#: includes/shortcodes/shortcodes.php:2551
+#: includes/shortcodes/shortcodes.php:2767
+#: includes/shortcodes/shortcodes.php:2860
+#@ qode
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1724
+#@ qode
+msgid "SHOW MORE"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2267
+#: includes/shortcodes/shortcodes.php:2283
+#: includes/shortcodes/shortcodes.php:2308
+#@ qode
+msgid "Share"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2270
+#@ qode
+msgid "Share on"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2296
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_tweetmeme.php:9
+#@ qode
+#@ js_composer
+msgid "Tweet"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2753
+#@ qode
+msgid "Sorry, no slides matched your criteria."
+msgstr ""
+
+#: includes/qode-custom-sidebar.php:18
+#@ qode
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/qode-custom-sidebar.php:42
+#@ default
+msgid "Enter Name of the new Widget Area"
+msgstr ""
+
+#: includes/qode-custom-sidebar.php:43
+#@ default
+msgid "Add Widget Area"
+msgstr ""
+
+#: js/default_dynamic.php:18
+#@ qode
+msgid "Comment has been sent!"
+msgstr ""
+
+#: js/default_dynamic.php:67
+#@ qode
+msgid "Search Here"
+msgstr ""
+
+#: search.php:90
+#: search.php:95
+#@ qode
+msgid "SEARCH"
+msgstr ""
+
+#: single-portfolio_page.php:267
+#: single-portfolio_page.php:384
+#: single-portfolio_page.php:509
+#: single-portfolio_page.php:645
+#: single-portfolio_page.php:794
+#: woocommerce/myaccount/my-orders.php:33
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:223
+#: wpbakery/js_composer/config/map.php:838
+#: wpbakery/js_composer/config/map.php:950
+#@ qode
+#@ woocommerce
+#@ js_composer
+msgid "Date"
+msgstr ""
+
+#: single-portfolio_page.php:272
+#: single-portfolio_page.php:389
+#: single-portfolio_page.php:514
+#: single-portfolio_page.php:650
+#: single-portfolio_page.php:799
+#@ qode
+msgid "Category "
+msgstr ""
+
+#: single-portfolio_page.php:287
+#: single-portfolio_page.php:404
+#: single-portfolio_page.php:469
+#: single-portfolio_page.php:605
+#: single-portfolio_page.php:754
+#@ qode
+msgid "About This Project"
+msgstr ""
+
+#: single.php:108
+#@ qode
+msgid "Blog"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:10
+#@ text_domain
+msgid "Call to Action Widget"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:54
+#@ qode
+msgid "Default button text"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:55
+#@ qode
+msgid "Default call to action text"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:116
+#@ qode
+msgid "Text:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:121
+#@ qode
+msgid "Text Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:126
+#@ qode
+msgid "Text Size:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:131
+#@ qode
+msgid "Background Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:136
+#@ qode
+msgid "Show Button:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:144
+#@ qode
+msgid "Button Type:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:152
+#@ qode
+msgid "Button Text:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:157
+#@ qode
+msgid "Button Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:162
+#@ qode
+msgid "Button Background Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:167
+#@ qode
+msgid "Button Border Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:172
+#@ qode
+msgid "Button Link:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:177
+#@ qode
+msgid "Button Target:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:187
+#@ qode
+msgid "Button Position:"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:8
+#@ text_domain
+msgid "Menu Latest Posts"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:50
+#@ qode
+msgid "Posted in"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:51
+#@ qode
+msgid " by"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:83
+#: widgets/relate_posts_widget.php:75
+#@ qode
+msgid "Title:"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:87
+#: widgets/relate_posts_widget.php:79
+#@ qode
+msgid "Number of posts:"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:91
+#@ qode
+msgid "Category:"
+msgstr ""
+
+#: widgets/relate_posts_widget.php:8
+#@ text_domain
+msgid "Related Posts Widget"
+msgstr ""
+
+#: widgets/relate_posts_widget.php:15
+#@ qode
+msgid "Related Posts"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:48
+#@ js_composer
+msgid "Dowload new version"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:51
+#@ js_composer
+msgid "update now"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:156
+#, php-format
+#@ js_composer
+msgid "There is a new version of Visual Composer available. <a href=\"http://bit.ly/vcomposer\" target=\"_blank\">Download version <b>%s</b></a>."
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:317
+#@ js_composer
+msgid "Add/remove picture"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:318
+#@ js_composer
+msgid "Finish Adding Images"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:319
+#@ js_composer
+msgid "Add Image"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:320
+#@ js_composer
+msgid "Add Images"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:321
+#: wpbakery/js_composer/composer/build.php:372
+#: wpbakery/js_composer/composer/settings/settings.php:72
+#@ js_composer
+msgid "Visual Composer"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:322
+#@ js_composer
+msgid "Classic editor"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:323
+#@ js_composer
+msgid "Please enter templates name"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:324
+#@ js_composer
+msgid "Confirm deleting \"{template_name}\" template, press Cancel to leave. This action cannot be undone."
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:325
+#@ js_composer
+msgid "Press OK to delete section, Cancel to leave"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:326
+#@ js_composer
+msgid "Drag and drop me in the column"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:327
+#@ js_composer
+msgid "Press OK to delete \"{tab_name}\" tab, Cancel to leave"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:329
+#: wpbakery/js_composer/composer/lib/shortcodes/tabs.php:4
+#: wpbakery/js_composer/config/map.php:571
+#@ js_composer
+msgid "Tab"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:331
+#@ js_composer
+msgid "Please enter new tab title"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:332
+#@ js_composer
+msgid "Press OK to delete \"{tab_name}\" section, Cancel to leave"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:334
+#@ js_composer
+msgid "Please enter new section title"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:335
+#@ js_composer
+msgid "Error. Please try again."
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:336
+#@ js_composer
+msgid "If you close this window all shortcode settings will be lost. Close this window?"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:337
+#@ js_composer
+msgid "Select element type"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:338
+#@ js_composer
+msgid "Media gallery"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:339
+#@ js_composer
+msgid "Element settings"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:340
+#@ js_composer
+msgid "Add tab"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:341
+#@ js_composer
+msgid "Are you sure you want to convert to new version?"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:342
+#: wpbakery/js_composer/composer/lib/layouts.php:221
+#@ js_composer
+msgid "Loading..."
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:344
+#@ js_composer
+msgid "Set Image"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:345
+#@ js_composer
+msgid "Are you sure taht you want to remove all your data?"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:346
+#@ default
+msgid "Loop settings"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:347
+#@ js_composer
+msgid "Enter custom layout for your row:"
+msgstr ""
+
+#: wpbakery/js_composer/composer/build.php:348
+#@ js_composer
+msgid "Wrong row layout format! Example: 1/2 + 1/2 or span6 + span6."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/helpers.php:240
+#@ js_composer
+msgid "Added"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/helpers_api.php:4
+#@ js_composer
+msgid "Wrong wpb_map object. Base attribute is required"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:14
+#@ js_composer
+msgid "Wrong layout params"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:95
+#@ js_composer
+msgid "Save current page as a Template"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:97
+#@ js_composer
+msgid "Load Template"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:110
+#@ js_composer
+msgid "No custom templates yet."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:166
+#@ js_composer
+msgid "Show all"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:181
+#@ js_composer
+msgid "Other"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:193
+#@ js_composer
+msgid "Select Content Element"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:194
+#@ js_composer
+msgid "Search by element name"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:209
+#@ js_composer
+msgid "Close"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:25
+#: woocommerce/myaccount/form-lost-password.php:44
+#: wpbakery/js_composer/composer/lib/layouts.php:225
+#: wpbakery/js_composer/composer/lib/shortcodes.php:447
+#@ woocommerce
+#@ js_composer
+msgid "Save"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:270
+#@ js_composer
+msgid "Visual Composer for WordPress"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:275
+#@ js_composer
+msgid "Update"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:289
+#@ js_composer
+msgid "Add element"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:297
+#@ js_composer
+msgid "Add row"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:305
+#@ js_composer
+msgid "Templates"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:347
+#@ js_composer
+msgid "Your page layout was created with previous Visual Composer version. Before converting your layout to the new version, make sure to <a target=\"_blank\" href=\"http://kb.wpbakery.com/index.php?title=Update_Visual_Composer_from_3.4_to_3.5\">read this page</a>."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:349
+#@ js_composer
+msgid "Convert to new version"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:355
+#: wpbakery/js_composer/composer/lib/layouts.php:392
+#@ js_composer
+msgid "Loading, please wait..."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:360
+#@ js_composer
+msgid "No content yet! You should add some..."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:364
+#@ js_composer
+msgid "This is a visual preview of your page. Currently, you don't have any content elements. Click or drag the button <a href='#' class='add-element-to-layout'><i class='icon'></i> Add element</a> on the top to add content elements on your page. Alternatively add <a href='#' class='add-text-block-to-content' parent-container='#visual_composer_content'><i class='icon'></i> Text block</a> with single click."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:369
+#@ js_composer
+msgid "Click the pencil icon on the content elements to change their properties."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/layouts.php:393
+#@ js_composer
+msgid "Crunching..."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/mapper.php:55
+#: wpbakery/js_composer/composer/lib/mapper.php:158
+#: wpbakery/js_composer/composer/lib/mapper.php:170
+#: wpbakery/js_composer/composer/lib/mapper.php:194
+#: wpbakery/js_composer/composer/lib/mapper.php:234
+#, php-format
+#@ js_composer
+msgid "Wrong name for shortcode:%s. Name required"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/mapper.php:57
+#, php-format
+#@ js_composer
+msgid "Wrong base for shortcode:%s. Base required"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/mapper.php:172
+#: wpbakery/js_composer/composer/lib/mapper.php:196
+#, php-format
+#@ js_composer
+msgid "Wrong attribute for '%s' shortcode. Attribute 'param_name' required"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/mapper.php:236
+#, php-format
+#@ js_composer
+msgid "Wrong setting_name for shortcode:%s. Base can't be modified."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:14
+#@ js_composer
+msgid "Build query"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:15
+#@ default
+msgid "Saved data"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:161
+#@ js_composer
+msgid "Post Count"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:164
+#: wpbakery/js_composer/config/map.php:750
+#: wpbakery/js_composer/config/map.php:894
+#@ js_composer
+msgid "Post types"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:165
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:225
+#: wpbakery/js_composer/config/map.php:838
+#: wpbakery/js_composer/config/map.php:950
+#@ js_composer
+msgid "Author"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:166
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_wp_categories.php:4
+#: wpbakery/js_composer/config/map.php:830
+#: wpbakery/js_composer/config/map.php:942
+#: wpbakery/js_composer/config/map.php:1984
+#@ js_composer
+#@ default
+msgid "Categories"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:167
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_wp_tagcloud.php:4
+#@ js_composer
+#@ default
+msgid "Tags"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:168
+#: wpbakery/js_composer/config/map.php:805
+#@ js_composer
+msgid "Taxonomies"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:169
+#@ js_composer
+msgid "Individual Posts/Pages"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:228
+#: wpbakery/js_composer/config/map.php:838
+#: wpbakery/js_composer/config/map.php:950
+#@ js_composer
+msgid "Modified"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:230
+#: wpbakery/js_composer/config/map.php:838
+#: wpbakery/js_composer/config/map.php:950
+#: wpbakery/js_composer/config/map.php:1335
+#: wpbakery/js_composer/config/map.php:1961
+#@ js_composer
+msgid "Random"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:231
+#: wpbakery/js_composer/config/map.php:838
+#: wpbakery/js_composer/config/map.php:950
+#@ js_composer
+msgid "Comment count"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:232
+#: wpbakery/js_composer/config/map.php:838
+#: wpbakery/js_composer/config/map.php:950
+#@ js_composer
+msgid "Menu order"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:240
+#: wpbakery/js_composer/config/map.php:845
+#: wpbakery/js_composer/config/map.php:957
+#@ js_composer
+msgid "Ascending"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/loop/loop.php:241
+#: wpbakery/js_composer/config/map.php:845
+#: wpbakery/js_composer/config/map.php:957
+#@ js_composer
+msgid "Descending"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/options/options.php:5
+#@ js_composer
+msgid "Manage options"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/teaser_template/teaser_template.php:24
+#: wpbakery/js_composer/config/map.php:771
+#@ js_composer
+msgid "Title + Thumbnail + Text"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/teaser_template/teaser_template.php:25
+#: wpbakery/js_composer/config/map.php:771
+#@ js_composer
+msgid "Thumbnail + Title + Text"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/teaser_template/teaser_template.php:26
+#: wpbakery/js_composer/config/map.php:771
+#@ js_composer
+msgid "Thumbnail + Text"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/teaser_template/teaser_template.php:27
+#: wpbakery/js_composer/config/map.php:771
+#@ js_composer
+msgid "Thumbnail + Title"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/teaser_template/teaser_template.php:28
+#: wpbakery/js_composer/config/map.php:771
+#@ js_composer
+msgid "Thumbnail only"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/teaser_template/teaser_template.php:29
+#: wpbakery/js_composer/config/map.php:771
+#@ js_composer
+msgid "Title + Text"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/params/vc_link/vc_link.php:6
+#@ js_composer
+msgid "Select URL"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/accordion.php:163
+#: wpbakery/js_composer/composer/lib/shortcodes/accordion.php:168
+#: wpbakery/js_composer/composer/lib/shortcodes/parallax.php:163
+#: wpbakery/js_composer/composer/lib/shortcodes/parallax.php:168
+#: wpbakery/js_composer/composer/lib/shortcodes/tabs.php:65
+#: wpbakery/js_composer/composer/lib/shortcodes/tabs.php:71
+#: wpbakery/js_composer/composer/lib/shortcodes.php:141
+#: wpbakery/js_composer/composer/lib/shortcodes.php:146
+#@ js_composer
+msgid "value"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/column.php:19
+#@ js_composer
+msgid "Append to this column"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/column.php:20
+#@ js_composer
+msgid "Prepend to this column"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/column.php:23
+#@ js_composer
+msgid "Edit this column"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/column.php:144
+#: wpbakery/js_composer/config/map.php:61
+#@ js_composer
+msgid "Column"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/column.php:156
+#: wpbakery/js_composer/config/map.php:36
+#: wpbakery/js_composer/config/map.php:53
+#: wpbakery/js_composer/config/map.php:68
+#: wpbakery/js_composer/config/map.php:95
+#: wpbakery/js_composer/config/map.php:175
+#: wpbakery/js_composer/config/map.php:210
+#: wpbakery/js_composer/config/map.php:338
+#: wpbakery/js_composer/config/map.php:396
+#: wpbakery/js_composer/config/map.php:469
+#: wpbakery/js_composer/config/map.php:503
+#: wpbakery/js_composer/config/map.php:551
+#: wpbakery/js_composer/config/map.php:623
+#: wpbakery/js_composer/config/map.php:850
+#: wpbakery/js_composer/config/map.php:962
+#: wpbakery/js_composer/config/map.php:992
+#: wpbakery/js_composer/config/map.php:1088
+#: wpbakery/js_composer/config/map.php:1162
+#: wpbakery/js_composer/config/map.php:1193
+#: wpbakery/js_composer/config/map.php:1249
+#: wpbakery/js_composer/config/map.php:1340
+#: wpbakery/js_composer/config/map.php:1398
+#: wpbakery/js_composer/config/map.php:1453
+#: wpbakery/js_composer/config/map.php:1547
+#: wpbakery/js_composer/config/map.php:1594
+#: wpbakery/js_composer/config/map.php:1679
+#: wpbakery/js_composer/config/map.php:1701
+#: wpbakery/js_composer/config/map.php:1729
+#: wpbakery/js_composer/config/map.php:1751
+#: wpbakery/js_composer/config/map.php:1787
+#: wpbakery/js_composer/config/map.php:1823
+#: wpbakery/js_composer/config/map.php:1860
+#: wpbakery/js_composer/config/map.php:1893
+#: wpbakery/js_composer/config/map.php:1928
+#: wpbakery/js_composer/config/map.php:1976
+#: wpbakery/js_composer/config/map.php:2004
+#: wpbakery/js_composer/config/map.php:2033
+#: wpbakery/js_composer/config/map.php:2076
+#@ js_composer
+msgid "Extra class name"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/column.php:159
+#: wpbakery/js_composer/config/map.php:38
+#: wpbakery/js_composer/config/map.php:55
+#: wpbakery/js_composer/config/map.php:70
+#: wpbakery/js_composer/config/map.php:97
+#: wpbakery/js_composer/config/map.php:177
+#: wpbakery/js_composer/config/map.php:212
+#: wpbakery/js_composer/config/map.php:340
+#: wpbakery/js_composer/config/map.php:398
+#: wpbakery/js_composer/config/map.php:471
+#: wpbakery/js_composer/config/map.php:505
+#: wpbakery/js_composer/config/map.php:553
+#: wpbakery/js_composer/config/map.php:625
+#: wpbakery/js_composer/config/map.php:852
+#: wpbakery/js_composer/config/map.php:964
+#: wpbakery/js_composer/config/map.php:994
+#: wpbakery/js_composer/config/map.php:1090
+#: wpbakery/js_composer/config/map.php:1164
+#: wpbakery/js_composer/config/map.php:1195
+#: wpbakery/js_composer/config/map.php:1251
+#: wpbakery/js_composer/config/map.php:1342
+#: wpbakery/js_composer/config/map.php:1400
+#: wpbakery/js_composer/config/map.php:1455
+#: wpbakery/js_composer/config/map.php:1549
+#: wpbakery/js_composer/config/map.php:1596
+#: wpbakery/js_composer/config/map.php:1681
+#: wpbakery/js_composer/config/map.php:1703
+#: wpbakery/js_composer/config/map.php:1731
+#: wpbakery/js_composer/config/map.php:1753
+#: wpbakery/js_composer/config/map.php:1789
+#: wpbakery/js_composer/config/map.php:1825
+#: wpbakery/js_composer/config/map.php:1862
+#: wpbakery/js_composer/config/map.php:1895
+#: wpbakery/js_composer/config/map.php:1930
+#: wpbakery/js_composer/config/map.php:1978
+#: wpbakery/js_composer/config/map.php:2006
+#: wpbakery/js_composer/config/map.php:2035
+#: wpbakery/js_composer/config/map.php:2078
+#@ js_composer
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/example.php:94
+#@ js_composer
+msgid "Hello World"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/example.php:102
+#@ js_composer
+msgid "Foo attribute"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/example.php:104
+#@ js_composer
+msgid "I'm foo attribute"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/example.php:105
+#@ js_composer
+msgid "Enter foo value."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/example.php:113
+#@ js_composer
+msgid "I'm hello world"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/example.php:114
+#: wpbakery/js_composer/config/map.php:1110
+#@ js_composer
+msgid "Enter your content."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/example.php:118
+#@ js_composer
+msgid "Drop down example"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/example.php:121
+#@ js_composer
+msgid "One, two or three?"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/image_gallery.php:27
+#: wpbakery/js_composer/composer/lib/shortcodes.php:571
+#@ js_composer
+msgid "Add images"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/posts_grid.php:80
+#: wpbakery/js_composer/composer/lib/shortcodes/posts_grid.php:99
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_posts_slider.php:151
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:183
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:204
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:205
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:223
+#, php-format
+#@ js_composer
+msgid "Permalink to %s"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/row.php:32
+#@ js_composer
+msgid "Custom layout"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/row.php:33
+#@ js_composer
+msgid "Drag row to reorder"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/row.php:34
+#@ js_composer
+msgid "Delete this row"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/row.php:35
+#@ js_composer
+msgid "Edit this row"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/row.php:36
+#@ js_composer
+msgid "Clone this row"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/single_image.php:22
+#: wpbakery/js_composer/composer/lib/shortcodes.php:586
+#@ js_composer
+msgid "Add image"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/tabs.php:23
+#, php-format
+#@ js_composer
+msgid "Append to this %s"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/tabs.php:24
+#, php-format
+#@ js_composer
+msgid "Prepend to this %s"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/tabs.php:27
+#, php-format
+#@ js_composer
+msgid "Edit this %s"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/tabs.php:28
+#, php-format
+#@ js_composer
+msgid "Clone this %s"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/tabs.php:30
+#, php-format
+#@ js_composer
+msgid "Delete this %s"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/teaser_grid.php:14
+#, php-format
+#@ js_composer
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes/teaser_grid.php:31
+#, php-format
+#@ js_composer
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes.php:124
+#, php-format
+#@ js_composer
+msgid "Wrong template for `%s` shortcode in class `%s`. Please check your mapping settings for this code. Error"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes.php:320
+#, php-format
+#@ js_composer
+msgid "Edit %s"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes.php:321
+#, php-format
+#@ js_composer
+msgid "Clone %s"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes.php:321
+#, php-format
+#@ js_composer
+msgid "Delete %s"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes.php:379
+#: wpbakery/js_composer/composer/lib/shortcodes.php:455
+#@ js_composer
+msgid "heading"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:45
+#: wpbakery/js_composer/composer/lib/shortcodes.php:433
+#: wpbakery/js_composer/composer/lib/shortcodes.php:653
+#@ woocommerce
+#@ js_composer
+msgid "Edit"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes.php:459
+#@ js_composer
+msgid "description"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/shortcodes.php:597
+#: wpbakery/js_composer/composer/settings/settings.php:292
+#@ js_composer
+msgid "name"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/wpb_automatic_updater.php:16
+#@ js_composer
+msgid "Error! Can't connect to filesystem"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/wpb_automatic_updater.php:27
+#@ js_composer
+msgid "Error! Envato API errorerror: error."
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/wpb_automatic_updater.php:42
+#@ js_composer
+msgid "Error on unzipping package"
+msgstr ""
+
+#: wpbakery/js_composer/composer/lib/wpb_automatic_updater.php:55
+#@ js_composer
+msgid "Downloading package from envato market&#8230;"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:21
+#@ js_composer
+msgid "General Settings"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:24
+#@ js_composer
+msgid "Design Options"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:25
+#@ js_composer
+msgid "Element Class Names"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:26
+#@ js_composer
+msgid "Custom CSS"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:27
+#@ js_composer
+msgid "Updater"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:41
+#@ js_composer
+msgid "Main accent color"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:43
+#@ js_composer
+msgid "Call to action background color"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:45
+#@ js_composer
+msgid "Google maps background color"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:46
+#@ js_composer
+msgid "Post slider caption background color"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:47
+#@ js_composer
+msgid "Progress bar background color"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:48
+#@ js_composer
+msgid "Separator border color"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:49
+#@ js_composer
+msgid "Tabs navigation background color"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:50
+#@ js_composer
+msgid "Active tab background color"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:71
+#@ js_composer
+msgid "Visual Composer Settings"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:95
+#: wpbakery/js_composer/composer/settings/settings.php:97
+#@ js_composer
+msgid "Content types"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:99
+#@ js_composer
+msgid "User groups access rules"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:100
+#@ js_composer
+msgid "Disable responsive content elements"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:107
+#@ js_composer
+msgid "Use custom design options"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:120
+#@ js_composer
+msgid "Elements bottom margin"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:124
+#@ js_composer
+msgid "Grid gutter width"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:128
+#@ js_composer
+msgid "Mobile screen width"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:156
+#@ js_composer
+msgid "Paste your CSS code"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:162
+#@ js_composer
+msgid "Envato Username"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:163
+#@ js_composer
+msgid "Secret API Key"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:164
+#@ js_composer
+msgid "Item Purchase code"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:243
+#: wpbakery/js_composer/composer/settings/settings.php:244
+#@ js_composer
+msgid "Are you sure you want to reset to defaults?"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:257
+#@ js_composer
+msgid "Show Visual Composer & default editor"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:258
+#@ js_composer
+msgid "Show only Visual Composer"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:259
+#@ js_composer
+msgid "Don't allow to use Visual Composer"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:278
+#@ js_composer
+msgid "Visual Composer access"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:286
+#@ js_composer
+msgid "Enabled shortcodes"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:300
+#@ js_composer
+msgid "Select All"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:300
+#@ js_composer
+msgid "Select none"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:328
+#: wpbakery/js_composer/composer/settings/settings.php:349
+#@ js_composer
+msgid "Select for which content types Visual Composer should be available during post creation/editing."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:355
+#@ js_composer
+msgid "If you want to add some custom CSS code to the plugin and don't want to modify any files, then it's a good place to enter your code at this field."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:367
+#@ js_composer
+msgid "Check this checkbox to prevent content elements from \"stacking\" one on top other (on small media screens, eg. mobile)."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:376
+#@ js_composer
+msgid "To change class name for the row element, enter it here. By default vc_row is used."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:393
+#@ js_composer
+msgid "To change class names for the columns elements, enter them here. By default vc_spanX are used, where X number from 1 to 12."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:404
+#@ js_composer
+msgid "Enable"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:406
+#@ js_composer
+msgid "Enable the use of custom design options for your site. When checked, custom css file will be used."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:418
+#@ js_composer
+msgid "To change default vertical spacing between content elements, enter new value here. Example: 20px"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:423
+#@ js_composer
+msgid "To change default horizontal spacing between columns, enter new value in percents here."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:429
+#@ js_composer
+msgid "By default content elements \"stack\" one on top other when screen size is smaller then 480px. Here you can change that value if needed."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:435
+#@ js_composer
+msgid "Your Envato username."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:441
+#@ js_composer
+msgid "Your Item Purchase Code contained within the License Certificate which is accessible in your Envato account. o view your License Certificate: Login to your Envato account and visit Downloads section, then click \"Download\" button to reveal \"License Certificate\" link."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:447
+#@ js_composer
+msgid "You can find API key by visiting your Envato Account page, then clicking the My Settings tab. At the bottom of the page you'll find your account's API key."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:461
+#@ js_composer
+msgid "Here you can tweak default Visual Composer content elements visual appearance. By default Visual Composer is using neutral light-grey theme. Changing \"Main accent color\" will affect all content elements if no specific \"content block\" related color is set."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:467
+#@ js_composer
+msgid "Add your Envato credentials, to enable auto updater. With correct login credentials Visual Composer will be updated automatically (same as other plugins do)."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:550
+#@ js_composer
+msgid "Invalid Margin value."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:555
+#@ js_composer
+msgid "Invalid Gutter value."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:561
+#@ js_composer
+msgid "Invalid \"Responsive max\" value."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:601
+#, php-format
+#@ js_composer
+msgid "Visual Composer: Your css class names settings are deprecated. <a href=\"%s\">Click here to resolve</a>."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:637
+#@ js_composer
+msgid "WPBakery Visual Composer Settings"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:651
+#@ js_composer
+msgid "<strong>Deprecated:</strong> To override class names that are applied to Visual Composer content elements you should use WordPress add_filter('vc_shortcodes_css_class') function. <a class='vc_show_example'>See Example</a>."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:659
+#@ default
+msgid "You have used element class names settings to replace row and column css classes."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:660
+#@ default
+msgid "Below is code snippet which you should add to your functions.php file in your theme, to replace row and column classes with custom classes saved by you earlier."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:734
+#@ js_composer
+msgid "Remove all"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:746
+#@ js_composer
+msgid "Restore to defaults"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:862
+#@ js_composer
+msgid "Something went wrong: js_composer_front_custom.css could not be created."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:864
+#@ js_composer
+msgid "js_composer_front_custom.css could not be created. Connection error."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:866
+#, php-format
+#@ js_composer
+msgid "js_composer_front_custom.css could not be created. Cannot write custom css to \"%s\"."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:868
+#@ js_composer
+msgid "js_composer_front_custom.css could not be created. Problem with access."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:898
+#@ js_composer
+msgid "Something went wrong: custom.css could not be created."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:900
+#@ js_composer
+msgid "custom.css could not be created. Connection error."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:902
+#@ js_composer
+msgid "custom.css could not be created. Cannot write custom css to \"\"."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:904
+#@ js_composer
+msgid "custom.css could not be created. Problem with access."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:935
+#@ default
+msgid "You do not have sufficient permissions to update plugins for this site."
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:936
+#@ js_composer
+msgid "Update Visual Composer Plugin"
+msgstr ""
+
+#: wpbakery/js_composer/composer/settings/settings.php:949
+#: wpbakery/js_composer/composer/settings/settings.php:955
+#@ js_composer
+msgid "This is required to enable file writing for js_composer"
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_button.php:10
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_cta_button.php:9
+#: wpbakery/js_composer/config/map.php:1045
+#: wpbakery/js_composer/config/map.php:1049
+#: wpbakery/js_composer/config/map.php:1114
+#: wpbakery/js_composer/config/map.php:1116
+#@ js_composer
+msgid "Text on the button"
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_flickr.php:19
+#@ js_composer
+msgid "View stream on flickr"
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_posts_grid.php:101
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_posts_slider.php:191
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:334
+#@ js_composer
+msgid "Nothing found."
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_single_image.php:18
+#@ js_composer
+msgid "This is image placeholder, edit your page to replace it."
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:183
+#@ js_composer
+msgid "Read more"
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_toggle.php:4
+#@ js_composer
+msgid "Click to toggle"
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_twitter.php:19
+#@ js_composer
+msgid "Follow us on twitter"
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_wp_archives.php:4
+#: wpbakery/js_composer/config/map.php:2013
+#@ default
+#@ js_composer
+msgid "Archives"
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_wp_meta.php:4
+#: wpbakery/js_composer/config/map.php:1687
+#@ default
+#@ js_composer
+msgid "Meta"
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_wp_pages.php:4
+#: wpbakery/js_composer/config/map.php:1759
+#@ default
+#@ js_composer
+msgid "Pages"
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_wp_posts.php:4
+#: wpbakery/js_composer/config/map.php:1902
+#@ default
+#@ js_composer
+msgid "Recent Posts"
+msgstr ""
+
+#: wpbakery/js_composer/composer/shortcodes_templates/vc_wp_recentcomments.php:4
+#: wpbakery/js_composer/config/map.php:1709
+#@ default
+#@ js_composer
+msgid "Recent Comments"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:10
+#: wpbakery/js_composer/config/map.php:1379
+#@ js_composer
+msgid "Grey"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:10
+#: wpbakery/js_composer/config/map.php:1379
+#@ js_composer
+msgid "Blue"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:10
+#: wpbakery/js_composer/config/map.php:1379
+#@ js_composer
+msgid "Turquoise"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:10
+#: wpbakery/js_composer/config/map.php:1379
+#@ js_composer
+msgid "Green"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:10
+#: wpbakery/js_composer/config/map.php:1379
+#@ js_composer
+msgid "Orange"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:10
+#: wpbakery/js_composer/config/map.php:1379
+#@ js_composer
+msgid "Red"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:10
+#: wpbakery/js_composer/config/map.php:1379
+#@ js_composer
+msgid "Black"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:13
+#@ js_composer
+msgid "Regular size"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:13
+#@ js_composer
+msgid "Large"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:13
+#: wpbakery/js_composer/config/map.php:269
+#@ js_composer
+msgid "Small"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:13
+#@ js_composer
+msgid "Mini"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:15
+#@ js_composer
+msgid "Same window"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:15
+#@ js_composer
+msgid "New window"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:22
+#: wpbakery/js_composer/config/map.php:1631
+#: wpbakery/js_composer/config/map.php:1639
+#: wpbakery/js_composer/config/map.php:1647
+#@ js_composer
+msgid "No"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:22
+#@ js_composer
+msgid "Top to bottom"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:22
+#@ js_composer
+msgid "Bottom to top"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:22
+#@ js_composer
+msgid "Left to right"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:22
+#@ js_composer
+msgid "Right to left"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:22
+#@ js_composer
+msgid "Appear from center"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:23
+#@ js_composer
+msgid "Select animation type if you want this element to be animated when it enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:27
+#: wpbakery/js_composer/config/map.php:44
+#@ js_composer
+msgid "Row"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:79
+#@ js_composer
+msgid "Text Block"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:143
+#@ js_composer
+msgid "Separator"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:153
+#@ js_composer
+msgid "Separator with Text"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:164
+#@ js_composer
+msgid "Separator title."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:168
+#@ js_composer
+msgid "Title position"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:170
+#@ js_composer
+msgid "Align center"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:170
+#: wpbakery/js_composer/config/map.php:1157
+#@ js_composer
+msgid "Align left"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:170
+#: wpbakery/js_composer/config/map.php:1157
+#@ js_composer
+msgid "Align right"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:171
+#@ js_composer
+msgid "Select title location."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:186
+#@ js_composer
+msgid "Message Box"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:194
+#@ js_composer
+msgid "Message box type"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:196
+#@ js_composer
+msgid "Informational"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:196
+#@ js_composer
+msgid "Warning"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:196
+#@ js_composer
+msgid "Success"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:196
+#@ js_composer
+msgid "Error"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:197
+#@ js_composer
+msgid "Select message type."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:203
+#@ js_composer
+msgid "Message text"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:221
+#@ js_composer
+msgid "Facebook Like"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:224
+#: wpbakery/js_composer/config/map.php:243
+#: wpbakery/js_composer/config/map.php:262
+#: wpbakery/js_composer/config/map.php:289
+#@ js_composer
+msgid "Social"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:228
+#: wpbakery/js_composer/config/map.php:247
+#@ js_composer
+msgid "Button type"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:231
+#@ js_composer
+msgid "Button count"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:231
+#@ js_composer
+msgid "Box count"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:232
+#: wpbakery/js_composer/config/map.php:251
+#@ js_composer
+msgid "Select button type."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:240
+#@ js_composer
+msgid "Tweetmeme Button"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:250
+#: wpbakery/js_composer/config/map.php:296
+#@ js_composer
+msgid "Horizontal"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:250
+#: wpbakery/js_composer/config/map.php:296
+#@ js_composer
+msgid "Vertical"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:250
+#: wpbakery/js_composer/config/map.php:277
+#: wpbakery/js_composer/config/map.php:1002
+#@ js_composer
+msgid "None"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:259
+#@ js_composer
+msgid "Google+ Button"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:266
+#@ js_composer
+msgid "Button size"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:269
+#@ js_composer
+msgid "Medium"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:269
+#@ js_composer
+msgid "Tall"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:270
+#@ js_composer
+msgid "Select button size."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:274
+#@ js_composer
+msgid "Annotation"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:277
+#@ js_composer
+msgid "Inline"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:277
+#@ js_composer
+msgid "Bubble"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:278
+#@ js_composer
+msgid "Select annotation type."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:286
+#@ js_composer
+msgid "Pinterest Button"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:293
+#@ js_composer
+msgid "Button layout"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:296
+#@ js_composer
+msgid "No count"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:297
+#@ js_composer
+msgid "Select button layout."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:305
+#@ js_composer
+msgid "FAQ"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:314
+#: wpbakery/js_composer/config/map.php:316
+#@ js_composer
+msgid "Toggle title"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:317
+#@ js_composer
+msgid "Toggle block title."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:323
+#@ js_composer
+msgid "Toggle content"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:325
+#@ js_composer
+msgid "<p>Toggle content goes here, click edit button to change this text.</p>"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:326
+#@ js_composer
+msgid "Toggle block content."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:330
+#@ js_composer
+msgid "Default state"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:332
+#@ js_composer
+msgid "Closed"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:332
+#@ js_composer
+msgid "Open"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:333
+#@ js_composer
+msgid "Select \"Open\" if you want toggle to be open by default."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:348
+#@ js_composer
+msgid "Single Image"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:355
+#: wpbakery/js_composer/config/map.php:413
+#: wpbakery/js_composer/config/map.php:490
+#: wpbakery/js_composer/config/map.php:538
+#: wpbakery/js_composer/config/map.php:604
+#: wpbakery/js_composer/config/map.php:671
+#: wpbakery/js_composer/config/map.php:736
+#: wpbakery/js_composer/config/map.php:867
+#: wpbakery/js_composer/config/map.php:980
+#: wpbakery/js_composer/config/map.php:1180
+#: wpbakery/js_composer/config/map.php:1210
+#: wpbakery/js_composer/config/map.php:1306
+#: wpbakery/js_composer/config/map.php:1358
+#: wpbakery/js_composer/config/map.php:1417
+#: wpbakery/js_composer/config/map.php:1533
+#: wpbakery/js_composer/config/map.php:1580
+#: wpbakery/js_composer/config/map.php:1673
+#: wpbakery/js_composer/config/map.php:1695
+#: wpbakery/js_composer/config/map.php:1717
+#: wpbakery/js_composer/config/map.php:1745
+#: wpbakery/js_composer/config/map.php:1767
+#: wpbakery/js_composer/config/map.php:1810
+#: wpbakery/js_composer/config/map.php:1846
+#: wpbakery/js_composer/config/map.php:1876
+#: wpbakery/js_composer/config/map.php:1910
+#: wpbakery/js_composer/config/map.php:1992
+#: wpbakery/js_composer/config/map.php:2021
+#: wpbakery/js_composer/config/map.php:2049
+#@ js_composer
+msgid "Widget title"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:357
+#: wpbakery/js_composer/config/map.php:415
+#: wpbakery/js_composer/config/map.php:492
+#: wpbakery/js_composer/config/map.php:540
+#: wpbakery/js_composer/config/map.php:606
+#: wpbakery/js_composer/config/map.php:673
+#: wpbakery/js_composer/config/map.php:738
+#: wpbakery/js_composer/config/map.php:869
+#: wpbakery/js_composer/config/map.php:982
+#: wpbakery/js_composer/config/map.php:1182
+#: wpbakery/js_composer/config/map.php:1212
+#: wpbakery/js_composer/config/map.php:1308
+#: wpbakery/js_composer/config/map.php:1360
+#: wpbakery/js_composer/config/map.php:1419
+#: wpbakery/js_composer/config/map.php:1535
+#: wpbakery/js_composer/config/map.php:1582
+#@ js_composer
+msgid "What text use as a widget title. Leave blank if no title is needed."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:364
+#@ js_composer
+msgid "Select image from media library."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:369
+#: wpbakery/js_composer/config/map.php:441
+#@ js_composer
+msgid "Image size"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:371
+#: wpbakery/js_composer/config/map.php:443
+#@ js_composer
+msgid "Enter image size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use 'thumbnail' size."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:375
+#@ js_composer
+msgid "Link to large image?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:377
+#@ js_composer
+msgid "If selected, image will be linked to the bigger image."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:378
+#: wpbakery/js_composer/config/map.php:911
+#: wpbakery/js_composer/config/map.php:1245
+#@ js_composer
+msgid "Yes, please"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:382
+#@ js_composer
+msgid "Image link"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:384
+#@ js_composer
+msgid "Enter url if you want this image to have link."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:406
+#@ js_composer
+msgid "Image Gallery"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:419
+#@ js_composer
+msgid "Gallery type"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:421
+#: wpbakery/js_composer/config/map.php:876
+#@ js_composer
+msgid "Flex slider fade"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:421
+#: wpbakery/js_composer/config/map.php:876
+#@ js_composer
+msgid "Flex slider slide"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:421
+#: wpbakery/js_composer/config/map.php:876
+#@ js_composer
+msgid "Nivo slider"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:421
+#@ js_composer
+msgid "Image grid"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:422
+#@ js_composer
+msgid "Select gallery type."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:426
+#: wpbakery/js_composer/config/map.php:544
+#: wpbakery/js_composer/config/map.php:887
+#@ js_composer
+msgid "Auto rotate slides"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:429
+#: wpbakery/js_composer/config/map.php:547
+#: wpbakery/js_composer/config/map.php:890
+#@ js_composer
+msgid "Auto rotate slides each X seconds."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:434
+#@ js_composer
+msgid "Images"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:437
+#@ js_composer
+msgid "Select images from media library."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:447
+#@ js_composer
+msgid "On click"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:449
+#@ js_composer
+msgid "Open prettyPhoto"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:449
+#@ js_composer
+msgid "Do nothing"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:449
+#: wpbakery/js_composer/config/map.php:918
+#@ js_composer
+msgid "Open custom link"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:450
+#@ js_composer
+msgid "What to do when slide is clicked?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:454
+#: wpbakery/js_composer/config/map.php:923
+#@ js_composer
+msgid "Custom links"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:456
+#: wpbakery/js_composer/config/map.php:926
+#@ js_composer
+msgid "Enter links for each slide here. Divide links with linebreaks (Enter)."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:461
+#@ js_composer
+msgid "Custom link target"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:463
+#@ js_composer
+msgid "Select where to open  custom links."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:481
+#@ js_composer
+msgid "Tabs"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:516
+#@ js_composer
+msgid "Tab 1"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:517
+#@ js_composer
+msgid "Tab 2"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:527
+#@ js_composer
+msgid "Tour Section"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:564
+#@ js_composer
+msgid "Slide 1"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:565
+#@ js_composer
+msgid "Slide 2"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:581
+#@ js_composer
+msgid "Tab title."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:585
+#@ js_composer
+msgid "Tab ID"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:595
+#@ js_composer
+msgid "Accordion"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:633
+#@ js_composer
+msgid "Add accordion section"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:637
+#: wpbakery/js_composer/config/map.php:685
+#@ js_composer
+msgid "Section 1"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:638
+#: wpbakery/js_composer/config/map.php:686
+#@ js_composer
+msgid "Section 2"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:643
+#@ js_composer
+msgid "Accordion Section"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:653
+#@ js_composer
+msgid "Accordion section title."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:662
+#@ js_composer
+msgid "Parallax"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:681
+#@ js_composer
+msgid "Add parallax section"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:691
+#@ js_composer
+msgid "Parallax Section"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:701
+#@ js_composer
+msgid "Parallax section title."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:705
+#@ js_composer
+msgid "Background Image"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:707
+#@ js_composer
+msgid "Prallax section background image."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:711
+#@ js_composer
+msgid "Section height"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:713
+#@ js_composer
+msgid "Section height."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:717
+#@ js_composer
+msgid "Content position"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:719
+#@ js_composer
+msgid "center"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:719
+#@ js_composer
+msgid "left"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:719
+#@ default
+msgid "right"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:720
+#@ js_composer
+msgid "Content position."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:729
+#@ js_composer
+msgid "Teaser (posts) Grid"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:742
+#@ js_composer
+msgid "Columns count"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:746
+#@ js_composer
+msgid "Select columns count."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:752
+#: wpbakery/js_composer/config/map.php:896
+#@ js_composer
+msgid "Select post types to populate posts from."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:756
+#@ js_composer
+msgid "Teasers count"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:758
+#@ js_composer
+msgid "How many teasers to show? Enter number or word \"All\"."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:764
+#: wpbakery/js_composer/config/map.php:902
+#@ js_composer
+msgid "Teaser (Excerpt)"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:764
+#@ js_composer
+msgid "Full Content"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:765
+#: wpbakery/js_composer/config/map.php:793
+#: wpbakery/js_composer/config/map.php:801
+#@ js_composer
+msgid "Teaser layout template."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:769
+#@ js_composer
+msgid "Layout"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:772
+#@ js_composer
+msgid "Teaser layout."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:778
+#: wpbakery/js_composer/config/map.php:918
+#@ js_composer
+msgid "Link to post"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:778
+#: wpbakery/js_composer/config/map.php:918
+#@ js_composer
+msgid "Link to bigger image"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:778
+#@ js_composer
+msgid "Thumbnail to bigger image, title to post"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:778
+#: wpbakery/js_composer/config/map.php:918
+#@ js_composer
+msgid "No link"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:779
+#: wpbakery/js_composer/config/map.php:919
+#@ js_composer
+msgid "Link type."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:783
+#@ js_composer
+msgid "Link target"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:790
+#@ js_composer
+msgid "Teaser grid layout"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:792
+#@ js_composer
+msgid "Grid"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:792
+#@ js_composer
+msgid "Grid with filter"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:797
+#@ js_composer
+msgid "Layout mode"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:799
+#@ js_composer
+msgid "Fit rows"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:799
+#@ js_composer
+msgid "Masonry"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:808
+#@ js_composer
+msgid "Select taxonomies from."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:812
+#: wpbakery/js_composer/config/map.php:930
+#@ js_composer
+msgid "Thumbnail size"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:814
+#: wpbakery/js_composer/config/map.php:932
+#@ js_composer
+msgid "Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height)."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:818
+#: wpbakery/js_composer/config/map.php:936
+#@ js_composer
+msgid "Post/Page IDs"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:820
+#@ js_composer
+msgid "Fill this field with page/posts IDs separated by commas (,) to retrieve only them. Use this in conjunction with \"Post types\" field."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:824
+#@ js_composer
+msgid "Exclude Post/Page IDs"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:826
+#@ js_composer
+msgid "Fill this field with page/posts IDs separated by commas (,) to exclude them from query."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:832
+#: wpbakery/js_composer/config/map.php:944
+#@ js_composer
+msgid "If you want to narrow output, enter category names here. Note: Only listed categories will be included. Divide categories with linebreaks (Enter)."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:836
+#: wpbakery/js_composer/config/map.php:948
+#: wpbakery/js_composer/config/map.php:955
+#@ js_composer
+msgid "Order by"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:839
+#: wpbakery/js_composer/config/map.php:951
+#, php-format
+#@ js_composer
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:843
+#@ js_composer
+msgid "Order way"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:846
+#: wpbakery/js_composer/config/map.php:958
+#, php-format
+#@ js_composer
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:860
+#@ js_composer
+msgid "Posts Slider"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:873
+#@ js_composer
+msgid "Slider type"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:877
+#@ js_composer
+msgid "Select slider type."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:881
+#@ js_composer
+msgid "Slides count"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:883
+#@ js_composer
+msgid "How many slides to show? Enter number or word \"All\"."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:902
+#@ js_composer
+msgid "No description"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:903
+#@ js_composer
+msgid "Some sliders support description text, what content use for it?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:908
+#@ js_composer
+msgid "Output post title?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:910
+#@ js_composer
+msgid "If selected, title will be printed before the teaser text."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:938
+#@ js_composer
+msgid "Fill this field with page/posts IDs separated by commas (,), to retrieve only them. Use this in conjunction with \"Post types\" field."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:972
+#@ js_composer
+msgid "Widgetised Sidebar"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:976
+#: wpbakery/js_composer/config/map.php:1262
+#: wpbakery/js_composer/config/map.php:1282
+#@ js_composer
+msgid "Structure"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:986
+#@ js_composer
+msgid "Sidebar"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:988
+#@ js_composer
+msgid "Select which widget area output."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1003
+#@ js_composer
+msgid "Address book icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1004
+#@ js_composer
+msgid "Alarm clock icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1005
+#@ js_composer
+msgid "Anchor icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1006
+#@ js_composer
+msgid "Application Image icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1007
+#@ js_composer
+msgid "Arrow icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1008
+#@ js_composer
+msgid "Asterisk icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1009
+#@ js_composer
+msgid "Hammer icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1010
+#@ js_composer
+msgid "Balloon icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1011
+#@ js_composer
+msgid "Balloon Buzz icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1012
+#@ js_composer
+msgid "Balloon Facebook icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1013
+#@ js_composer
+msgid "Balloon Twitter icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1014
+#@ js_composer
+msgid "Battery icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1015
+#@ js_composer
+msgid "Binocular icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1016
+#@ js_composer
+msgid "Document Excel icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1017
+#@ js_composer
+msgid "Document Image icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1018
+#@ js_composer
+msgid "Document Music icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1019
+#@ js_composer
+msgid "Document Office icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1020
+#@ js_composer
+msgid "Document PDF icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1021
+#@ js_composer
+msgid "Document Powerpoint icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1022
+#@ js_composer
+msgid "Document Word icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1023
+#@ js_composer
+msgid "Bookmark icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1024
+#@ js_composer
+msgid "Camcorder icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1025
+#@ js_composer
+msgid "Camera icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1026
+#@ js_composer
+msgid "Chart icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1027
+#@ js_composer
+msgid "Chart pie icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1028
+#@ js_composer
+msgid "Clock icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1029
+#@ js_composer
+msgid "Fire icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1030
+#@ js_composer
+msgid "Heart icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1031
+#@ js_composer
+msgid "Mail icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1032
+#@ js_composer
+msgid "Play icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1033
+#@ js_composer
+msgid "Shield icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1034
+#@ js_composer
+msgid "Video icon"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1050
+#: wpbakery/js_composer/config/map.php:1117
+#@ js_composer
+msgid "Text on the button."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1054
+#: wpbakery/js_composer/config/map.php:1121
+#@ js_composer
+msgid "URL (Link)"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1056
+#: wpbakery/js_composer/config/map.php:1123
+#@ js_composer
+msgid "Button link."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1070
+#: wpbakery/js_composer/config/map.php:1137
+#@ js_composer
+msgid "Button color."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1077
+#: wpbakery/js_composer/config/map.php:1144
+#@ js_composer
+msgid "Button icon."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1084
+#: wpbakery/js_composer/config/map.php:1151
+#@ js_composer
+msgid "Button size."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1099
+#@ js_composer
+msgid "Call to Action Button"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1109
+#@ js_composer
+msgid "Click edit button to change this text."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1155
+#@ js_composer
+msgid "Button position"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1157
+#@ js_composer
+msgid "Align bottom"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1158
+#@ js_composer
+msgid "Select button alignment."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1173
+#@ js_composer
+msgid "Video Player"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1186
+#@ js_composer
+msgid "Video link"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1189
+#, php-format
+#@ js_composer
+msgid "Link to the video. More about supported formats at %s."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1203
+#@ js_composer
+msgid "Google Maps"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1216
+#@ js_composer
+msgid "Google map link"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1219
+#, php-format
+#@ js_composer
+msgid "Link to your map. Visit %s find your address and then click \"Link\" button to obtain your map link."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1223
+#@ js_composer
+msgid "Map height"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1225
+#@ js_composer
+msgid "Enter map height in pixels. Example: 200."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1229
+#@ js_composer
+msgid "Map type"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1231
+#@ js_composer
+msgid "Map"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1231
+#@ js_composer
+msgid "Satellite"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1231
+#@ js_composer
+msgid "Map + Terrain"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1232
+#@ js_composer
+msgid "Select map type."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1236
+#@ js_composer
+msgid "Map Zoom"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1238
+#@ js_composer
+msgid "14 - Default"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1242
+#@ js_composer
+msgid "Remove info bubble"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1244
+#@ js_composer
+msgid "If selected, information bubble will be hidden."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1259
+#: wpbakery/js_composer/config/map.php:1268
+#@ js_composer
+msgid "Raw HTML"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1271
+#@ js_composer
+msgid "Enter your HTML content."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1279
+#@ js_composer
+msgid "Raw JS"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1288
+#@ js_composer
+msgid "Raw js"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1291
+#@ js_composer
+msgid "Enter your JS code."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1300
+#@ js_composer
+msgid "Flickr Widget"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1312
+#@ js_composer
+msgid "Flickr ID"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1315
+#, php-format
+#@ js_composer
+msgid "To find your flickID visit %s."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1319
+#@ js_composer
+msgid "Number of photos"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1322
+#@ js_composer
+msgid "Number of photos."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1328
+#@ js_composer
+msgid "User"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1328
+#@ js_composer
+msgid "Group"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1329
+#@ js_composer
+msgid "Photo stream type."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1333
+#@ js_composer
+msgid "Display"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1335
+#@ js_composer
+msgid "Latest"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1336
+#@ js_composer
+msgid "Photo order."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1351
+#@ js_composer
+msgid "Progress Bar"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1364
+#@ js_composer
+msgid "Graphic values"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1366
+#@ js_composer
+msgid "Input graph values here. Divide values with linebreaks (Enter). Example: 90|Development"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1371
+#: wpbakery/js_composer/config/map.php:1439
+#@ js_composer
+msgid "Units"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1373
+#: wpbakery/js_composer/config/map.php:1441
+#@ js_composer
+msgid "Enter measurement units (if needed) Eg. %, px, points, etc. Graph value and unit will be appended to the graph title."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1380
+#@ js_composer
+msgid "Select bar background color."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1385
+#@ js_composer
+msgid "Bar custom color"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1387
+#@ js_composer
+msgid "Select custom background color for bars."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1394
+#@ js_composer
+msgid "Add Stripes?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1394
+#@ js_composer
+msgid "Add animation? Will be visible with striped bars."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1409
+#@ vc_extend
+msgid "Pie chart"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1424
+#@ js_composer
+msgid "Pie value"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1426
+#@ js_composer
+msgid "Input graph value here. Witihn a range 0-100."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1432
+#@ js_composer
+msgid "Pie label value"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1434
+#@ js_composer
+msgid "Input integer value for label. If empty \"Pie value\" will be used."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1448
+#@ js_composer
+msgid "Select pie chart color."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1485
+#@ js_composer
+msgid "Contact Form 7"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1491
+#@ js_composer
+msgid "Form title"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1494
+#@ js_composer
+msgid "What text use as form title. Leave blank if no title is needed."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1498
+#@ js_composer
+msgid "Select contact form"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1501
+#@ js_composer
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1527
+#@ js_composer
+msgid "Layer Slider"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1539
+#@ js_composer
+msgid "LayerSlider ID"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1543
+#@ js_composer
+msgid "Select your LayerSlider."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1574
+#: wpbakery/js_composer/config/map.php:1586
+#@ js_composer
+msgid "Revolution Slider"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1590
+#@ js_composer
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1603
+#@ js_composer
+msgid "No Gravity forms found."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1607
+#@ js_composer
+msgid "Select a form to display."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1614
+#@ js_composer
+msgid "Gravity Form"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1621
+#@ js_composer
+msgid "Form"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1624
+#@ js_composer
+msgid "Select a form to add it to your post or page."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1629
+#@ js_composer
+msgid "Display Form Title"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1631
+#: wpbakery/js_composer/config/map.php:1639
+#: wpbakery/js_composer/config/map.php:1647
+#@ js_composer
+msgid "Yes"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1632
+#@ js_composer
+msgid "Would you like to display the forms title?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1637
+#@ js_composer
+msgid "Display Form Description"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1640
+#@ js_composer
+msgid "Would you like to display the forms description?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1645
+#@ js_composer
+msgid "Enable AJAX?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1648
+#@ js_composer
+msgid "Enable AJAX submission?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1653
+#@ js_composer
+msgid "Tab Index"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1655
+#@ js_composer
+msgid "(Optional) Specify the starting tab index for the fields of this form. Leave blank if you're not sure what this is."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1665
+#@ js_composer
+msgid "Search"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1668
+#: wpbakery/js_composer/config/map.php:1690
+#: wpbakery/js_composer/config/map.php:1712
+#: wpbakery/js_composer/config/map.php:1740
+#: wpbakery/js_composer/config/map.php:1762
+#: wpbakery/js_composer/config/map.php:1805
+#: wpbakery/js_composer/config/map.php:1841
+#: wpbakery/js_composer/config/map.php:1871
+#: wpbakery/js_composer/config/map.php:1905
+#: wpbakery/js_composer/config/map.php:1947
+#: wpbakery/js_composer/config/map.php:1987
+#: wpbakery/js_composer/config/map.php:2016
+#: wpbakery/js_composer/config/map.php:2044
+#@ js_composer
+msgid "WordPress Widgets"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1675
+#: wpbakery/js_composer/config/map.php:1697
+#: wpbakery/js_composer/config/map.php:1719
+#: wpbakery/js_composer/config/map.php:1747
+#: wpbakery/js_composer/config/map.php:1769
+#: wpbakery/js_composer/config/map.php:1812
+#: wpbakery/js_composer/config/map.php:1848
+#: wpbakery/js_composer/config/map.php:1878
+#: wpbakery/js_composer/config/map.php:1912
+#: wpbakery/js_composer/config/map.php:1994
+#: wpbakery/js_composer/config/map.php:2023
+#: wpbakery/js_composer/config/map.php:2051
+#@ js_composer
+msgid "What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1723
+#@ js_composer
+msgid "Number of comments to show"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1737
+#@ js_composer
+msgid "Calendar"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1773
+#: wpbakery/js_composer/config/map.php:1959
+#@ js_composer
+msgid "Sort by"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1775
+#@ js_composer
+msgid "Page title"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1775
+#@ js_composer
+msgid "Page order"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1775
+#@ js_composer
+msgid "Page ID"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1780
+#@ js_composer
+msgid "Exclude"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1782
+#@ js_composer
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1802
+#@ js_composer
+msgid "Tag Cloud"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1816
+#@ js_composer
+msgid "Taxonomy"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1838
+#@ js_composer
+msgid "Custom Menu"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1852
+#@ js_composer
+msgid "Menu"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1855
+#@ js_composer
+msgid "Custom menus not found. Please visit <b>Appearance > Menus</b> page to create new menu.Select menu"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1916
+#@ js_composer
+msgid "Number of posts to show"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1922
+#: wpbakery/js_composer/config/map.php:1924
+#@ js_composer
+msgid "Display post date?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1936
+#@ js_composer
+msgid "All Links"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1944
+#@ js_composer
+msgid "Links"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1952
+#@ js_composer
+msgid "Link Category"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1961
+#@ js_composer
+msgid "Link title"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1961
+#@ js_composer
+msgid "Link rating"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1961
+#@ js_composer
+msgid "Link ID"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1967
+#@ js_composer
+msgid "Show Link Image"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1967
+#@ js_composer
+msgid "Show Link Name"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1967
+#@ js_composer
+msgid "Show Link Description"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1967
+#@ js_composer
+msgid "Show Link Rating"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:1971
+#@ js_composer
+msgid "Number of links to show"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2000
+#: wpbakery/js_composer/config/map.php:2029
+#@ js_composer
+msgid "Display as dropdown"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2000
+#: wpbakery/js_composer/config/map.php:2029
+#@ js_composer
+msgid "Show post counts"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2000
+#@ js_composer
+msgid "Show hierarchy"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2041
+#@ js_composer
+msgid "RSS"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2055
+#@ js_composer
+msgid "RSS feed URL"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2057
+#@ js_composer
+msgid "Enter the RSS feed URL."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2062
+#@ js_composer
+msgid "Items"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2064
+#@ js_composer
+msgid "10 - Default"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2065
+#@ js_composer
+msgid "How many items would you like to display?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2072
+#@ js_composer
+msgid "Display item content?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2072
+#@ js_composer
+msgid "Display item author if available?"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:2072
+#@ js_composer
+msgid "Display item date?"
+msgstr ""
+
+#: extendvc/extend-vc.php:244
+#@ js_composer
+msgid "Border bottom color"
+msgstr ""
+
+#: extendvc/extend-vc.php:331
+#@ js_composer
+msgid "Transition delay (s)"
+msgstr ""
+
+#: extendvc/extend-vc.php:664
+#@ js_composer
+msgid "Portfolio List"
+msgstr ""
+
+#: extendvc/extend-vc.php:1069
+#@ js_composer
+msgid "Action"
+msgstr ""
+
+#: extendvc/extend-vc.php:1138
+#@ js_composer
+msgid "Link Text Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1146
+#@ js_composer
+msgid "Link Background Color"
+msgstr ""
+
+#: extendvc/extend-vc.php:1156
+#@ js_composer
+msgid "I am test text for Call to action."
+msgstr ""
+
+#: extendvc/extend-vc.php:1386
+#@ js_composer
+msgid "Image With Text"
+msgstr ""
+
+#: extendvc/extend-vc.php:1437
+#: extendvc/extend-vc.php:3495
+#@ js_composer
+msgid "I am test text for Image with text shortcode."
+msgstr ""
+
+#: extendvc/extend-vc.php:1544
+#@ js_composer
+msgid "I am test text for Message shortcode."
+msgstr ""
+
+#: extendvc/extend-vc.php:1552
+#@ js_composer
+msgid "Pie Chart"
+msgstr ""
+
+#: extendvc/extend-vc.php:1651
+#@ js_composer
+msgid "Pie Chart With Icon"
+msgstr ""
+
+#: extendvc/extend-vc.php:1773
+#@ js_composer
+msgid "Pie Chart 2 (Pie)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1818
+#@ js_composer
+msgid "Pie Chart 3 (Doughnut)"
+msgstr ""
+
+#: extendvc/extend-vc.php:1864
+#@ js_composer
+msgid "Progress Bar - Horizontal"
+msgstr ""
+
+#: extendvc/extend-vc.php:1947
+#@ js_composer
+msgid "Progress Bar - Vertical"
+msgstr ""
+
+#: extendvc/extend-vc.php:2038
+#@ js_composer
+msgid "Progress Bar - Icon"
+msgstr ""
+
+#: extendvc/extend-vc.php:2242
+#@ js_composer
+msgid "Pricing Table"
+msgstr ""
+
+#: extendvc/extend-vc.php:2338
+#@ js_composer
+msgid "Social Share"
+msgstr ""
+
+#: extendvc/extend-vc.php:2473
+#@ js_composer
+msgid "List - Ordered"
+msgstr ""
+
+#: extendvc/extend-vc.php:2495
+#@ js_composer
+msgid "List - Unordered"
+msgstr ""
+
+#: extendvc/extend-vc.php:2724
+#@ js_composer
+msgid "Social Icons"
+msgstr ""
+
+#: extendvc/extend-vc.php:3393
+#@ js_composer
+msgid "Image With Text Over"
+msgstr ""
+
+#: extendvc/extend-vc.php:3587
+#@ js_composer
+msgid "Image Hover"
+msgstr ""
+
+#: includes/import/qode-import.php:216
+#@ qode
+msgid "Important notes:"
+msgstr ""
+
+#: includes/import/qode-import.php:217
+#@ qode
+msgid "Please note that import process will take time needed to download all attachments from demo web site. If timeout error (probably resulting in blank screen or error message) happens, please log-in to dashboard again and re-run the process. It will continue where it stopped. You might need to repeat this step couple of times"
+msgstr ""
+
+#: includes/import/qode-import.php:218
+#@ qode
+msgid "If you plan to use shop, please install WooCommerce before you run import, otherwise ignore Failed to import error messages"
+msgstr ""
+
+#: includes/qode-options.php:571
+#@ qode
+msgid "Elements animation on mobile/touch devices"
+msgstr ""
+
+#: includes/qode-options.php:1143
+#@ qode
+msgid "Show sticky header"
+msgstr ""
+
+#: includes/qode-options.php:2140
+#@ qode
+msgid "When you put the slug for portfolio page, you should navigate to "
+msgstr ""
+
+#: includes/qode-options.php:2140
+#@ qode
+msgid " and click save button."
+msgstr ""
+
+#: includes/qode-options.php:2153
+#@ qode
+msgid "Quote/Link box color"
+msgstr ""
+
+#: widgets/woocommerce-dropdown-cart.php:8
+#@ qode
+msgid "Woocommerce Dropdown Cart"
+msgstr ""
+
+#: widgets/woocommerce-dropdown-cart.php:62
+#@ woocommerce
+msgid "No products in the cart."
+msgstr ""
+
+#: widgets/woocommerce-dropdown-cart.php:72
+#@ woocommerce
+msgid "CART"
+msgstr ""
+
+#: widgets/woocommerce-dropdown-cart.php:73
+#: woocommerce/cart/cart.php:31
+#: woocommerce/myaccount/my-orders.php:35
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:15
+#@ woocommerce
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:19
+#@ woocommerce
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+#@ woocommerce
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47
+#@ woocommerce
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+#@ woocommerce
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:100
+#: woocommerce/single-product/add-to-cart/quantity.php:12
+#@ woocommerce
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+#@ woocommerce
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+#: woocommerce/checkout/form-coupon.php:26
+#@ woocommerce
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+#@ woocommerce
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+#@ woocommerce
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:17
+#@ woocommerce
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:20
+#@ woocommerce
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:25
+#@ woocommerce
+msgid "Enter coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:14
+#@ woocommerce
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:17
+#@ woocommerce
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+#@ woocommerce
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:19
+#@ woocommerce
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:23
+#@ woocommerce
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:25
+#@ woocommerce
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:29
+#: woocommerce/myaccount/my-orders.php:71
+#@ woocommerce
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+#@ woocommerce
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:37
+#: woocommerce/checkout/thankyou.php:70
+#@ woocommerce
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41
+#@ woocommerce
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:45
+#@ woocommerce
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:49
+#@ woocommerce
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:54
+#@ woocommerce
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:17
+#@ woocommerce
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:34
+#@ woocommerce
+msgid "Select options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:39
+#@ woocommerce
+msgid "View options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:49
+#@ woocommerce
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+#@ woocommerce
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+#@ woocommerce
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+#@ woocommerce
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "%1$d–%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+#@ woocommerce
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:30
+#: woocommerce/myaccount/form-lost-password.php:31
+#@ woocommerce
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:21
+#: woocommerce/myaccount/form-lost-password.php:34
+#: woocommerce/myaccount/form-lost-password.php:35
+#@ woocommerce
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:27
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#@ woocommerce
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:27
+#: woocommerce/myaccount/my-address.php:20
+#@ woocommerce
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:43
+#@ woocommerce
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:27
+#: woocommerce/myaccount/form-login.php:39
+#: woocommerce/shop/form-login.php:31
+#@ woocommerce
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:30
+#: woocommerce/myaccount/form-lost-password.php:23
+#: woocommerce/shop/form-login.php:22
+#@ woocommerce
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:33
+#: woocommerce/myaccount/form-login.php:80
+#: woocommerce/shop/form-login.php:25
+#@ woocommerce
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:47
+#: woocommerce/shop/form-login.php:33
+#@ woocommerce
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+#: woocommerce/myaccount/form-login.php:94
+#@ woocommerce
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+#@ woocommerce
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:74
+#@ woocommerce
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:83
+#@ woocommerce
+msgid "Re-enter password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:21
+#@ woocommerce
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+#@ woocommerce
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:44
+#@ woocommerce
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+#@ woocommerce
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+#@ woocommerce
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+#@ woocommerce
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+#@ woocommerce
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+#@ woocommerce
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:62
+#, php-format
+#@ woocommerce
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:82
+#@ woocommerce
+msgid "View"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:14
+#@ woocommerce
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+#@ woocommerce
+msgid "Product Description"
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:90
+#@ js_composer
+msgid "I am text block. Click edit button to change this text."
+msgstr ""
+
+#: wpbakery/js_composer/config/map.php:205
+#@ js_composer
+msgid "I am message box. Click edit button to change this text."
+msgstr ""
+

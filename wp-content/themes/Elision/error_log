@@ -1,0 +1,54 @@
+[21-Apr-2014 19:08:47] PHP Fatal error:  Call to undefined function  get_header() in /home1/esenzitc/public_html/wp-content/themes/Elision/index.php on line 1
+[08-May-2014 13:27:07] PHP Fatal error:  Call to undefined function  get_header() in /home1/esenzitc/public_html/wp-content/themes/Elision/index.php on line 1
+[20-Jun-2014 14:47:05] PHP Fatal error:  Call to undefined function  get_header() in /home1/esenzitc/public_html/wp-content/themes/Elision/index.php on line 1
+[18-Dec-2014 10:40:56 America/Chicago] PHP Fatal error:  Call to a member function get_queried_object_id() on a non-object in /home1/esenzitc/public_html/senzit.net/wp-content/themes/Elision/full_width.php on line 9
+[28-Feb-2015 13:01:36 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/404.php on line 53
+[28-Feb-2015 13:01:43 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/404.php on line 53
+[09-Apr-2015 10:27:08 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/index.php on line 1
+[16-May-2015 18:38:14 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/index.php on line 1
+[25-May-2015 06:03:32 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/index.php on line 1
+[24-Jun-2015 15:02:59 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/index.php on line 1
+[18-Jul-2015 23:29:54 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/index.php on line 1
+[19-Jul-2015 11:32:46 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/404.php on line 53
+[21-Jul-2015 08:55:28 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/index.php on line 1
+[12-Aug-2015 20:16:13 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/index.php on line 1
+[15-Sep-2015 06:52:38 Etc/GMT] PHP Fatal error:  Call to undefined function comments_number() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/comments.php on line 2
+[19-Sep-2015 13:18:34 Etc/GMT] PHP Fatal error:  Call to undefined function comments_number() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/comments.php on line 2
+[09-Oct-2015 20:03:53 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/index.php on line 1
+[09-Oct-2015 20:07:28 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/index.php on line 1
+[09-Oct-2015 20:11:22 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/index.php on line 1
+[27-Nov-2015 06:03:51 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/index.php on line 1
+[07-Jul-2016 16:33:05 Etc/GMT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/functions.php on line 4
+[26-Jul-2016 13:37:31 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/404.php on line 53
+[01-Aug-2016 20:49:05 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/archive.php on line 1
+[03-Aug-2016 03:07:03 Etc/GMT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/functions.php on line 4
+[05-Aug-2016 20:11:29 Etc/GMT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/functions.php on line 4
+[05-Aug-2016 23:00:59 Etc/GMT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/functions.php on line 4
+[06-Aug-2016 03:54:25 Etc/GMT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/functions.php on line 4
+[07-Aug-2016 14:40:06 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/header.php on line 2
+[07-Aug-2016 14:40:09 Etc/GMT] PHP Notice:  Undefined variable: wp_query in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/footer.php on line 2
+[07-Aug-2016 14:40:09 Etc/GMT] PHP Fatal error:  Call to a member function get_queried_object_id() on a non-object in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/footer.php on line 2
+[07-Aug-2016 15:17:05 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/header.php on line 2
+[07-Aug-2016 15:17:07 Etc/GMT] PHP Notice:  Undefined variable: wp_query in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/footer.php on line 2
+[07-Aug-2016 15:17:07 Etc/GMT] PHP Fatal error:  Call to a member function get_queried_object_id() on a non-object in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/footer.php on line 2
+[09-Aug-2016 23:28:40 Etc/GMT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/functions.php on line 4
+[10-Aug-2016 13:23:11 Etc/GMT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/functions.php on line 4
+[10-Aug-2016 17:37:16 Etc/GMT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/functions.php on line 4
+[22-Mar-2017 05:32:42 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/404.php on line 53
+[24-Mar-2017 10:51:11 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/404.php on line 53
+[30-Mar-2017 04:04:19 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/404.php on line 53
+[31-Mar-2017 08:28:54 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/404.php on line 53
+[31-Mar-2017 23:34:03 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SENZIT_UAE/wp-content/themes/Elision/404.php on line 53
+[18-Sep-2017 15:07:45 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/404.php on line 53
+[18-Sep-2017 15:07:46 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/404.php on line 53
+[30-Sep-2017 03:26:04 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/404.php on line 53
+[30-Sep-2017 03:26:05 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/404.php on line 53
+[02-Oct-2017 17:03:08 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/archive.php on line 1
+[02-Oct-2017 17:03:09 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/archive.php on line 1
+[04-Oct-2017 10:04:45 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/archive.php on line 1
+[04-Oct-2017 10:04:46 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/archive.php on line 1
+[06-Oct-2017 03:38:31 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/header.php on line 2
+[06-Oct-2017 03:38:32 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/header.php on line 2
+[07-Oct-2017 04:10:30 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/index.php on line 1
+[07-Oct-2017 04:10:30 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/index.php on line 1
+[09-Oct-2017 22:20:40 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzix15/public_html/SENZIT_AE/wp-content/themes/Elision/index.php on line 1

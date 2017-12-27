@@ -1,0 +1,224 @@
+[13-Dec-2014 16:41:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/esenzitc/public_html/senzit.net/wp-content/themes/Elision/full_width.php on line 126
+[13-Dec-2014 16:42:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/esenzitc/public_html/senzit.net/wp-content/themes/Elision/full_width.php on line 108
+[13-Dec-2014 16:46:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/esenzitc/public_html/senzit.net/wp-content/themes/Elision/full_width.php on line 122
+[13-Dec-2014 16:46:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/esenzitc/public_html/senzit.net/wp-content/themes/Elision/full_width.php on line 122
+[13-Jul-2015 07:03:51 UTC] PHP Warning:  imagepng() [<a href='function.imagepng'>function.imagepng</a>]: Unable to open '/home/esenzitc/public_html/senzit.net/wp-content/uploads/wpcf7_captcha/1123950450.png' for writing: Disk quota exceeded in /home/esenzitc/public_html/senzit.net/wp-content/plugins/really-simple-captcha/really-simple-captcha.php on line 142
+[14-Jul-2015 12:05:55 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/esenzitc/public_html/senzit.net/wp-content/plugins/pentagon/pentagon.php on line 106
+[14-Jul-2015 12:08:41 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/esenzitc/public_html/senzit.net/wp-content/plugins/pentagon/pentagon.php on line 106
+[14-Jul-2015 12:11:26 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/esenzitc/public_html/senzit.net/wp-content/plugins/pentagon/pentagon.php on line 106
+[14-Jul-2015 12:11:42 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/esenzitc/public_html/senzit.net/wp-content/plugins/pentagon/pentagon.php on line 106
+[14-Jul-2015 12:11:51 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/esenzitc/public_html/senzit.net/wp-content/plugins/pentagon/pentagon.php on line 106
+[12-Aug-2015 11:16:15 Etc/GMT] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/esenzitc/public_html/senzit.net/test.php on line 6
+[12-Aug-2015 11:16:15 Etc/GMT] PHP Warning:  fopen(http://www.someimagesite.com/img.jpg) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/esenzitc/public_html/senzit.net/test.php on line 6
+[12-Aug-2015 11:16:15 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/esenzitc/public_html/senzit.net/test.php on line 8
+[12-Aug-2015 11:16:15 Etc/GMT] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/esenzitc/public_html/senzit.net/test.php on line 12
+[12-Aug-2015 11:16:56 Etc/GMT] PHP Warning:  copy(http://example.com/image.php) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/esenzitc/public_html/senzit.net/test.php on line 4
+[12-Aug-2015 11:17:01 Etc/GMT] PHP Warning:  copy(http://example.com/image.php) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/esenzitc/public_html/senzit.net/test.php on line 4
+[12-Aug-2015 11:17:59 Etc/GMT] PHP Warning:  copy(local/folder/flower.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/esenzitc/public_html/senzit.net/test.php on line 4
+[12-Aug-2015 11:18:24 Etc/GMT] PHP Warning:  copy(D://flower.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/esenzitc/public_html/senzit.net/test.php on line 4
+[12-Aug-2015 11:18:42 Etc/GMT] PHP Warning:  copy(E://flower.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/esenzitc/public_html/senzit.net/test.php on line 4
+[12-Aug-2015 11:19:36 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:16 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:17 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:18 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:18 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:19 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:20:19 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:49:35 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[12-Aug-2015 11:49:35 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[01-Sep-2015 08:18:56 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[03-Sep-2015 03:42:36 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/esenzitc/public_html/senzit.net/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/esenzitc/public_html/senzit.net/test.php on line 10
+[17-Sep-2015 13:58:51 UTC] PHP Fatal error:  Out of memory (allocated 32768000) (tried to allocate 122880 bytes) in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/wpbakery/js_composer/composer/lib/shortcodes.php on line 534
+[12-Oct-2015 06:27:21 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[13-Oct-2015 10:11:48 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[14-Oct-2015 05:10:37 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[14-Oct-2015 05:31:27 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[14-Oct-2015 06:02:04 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/senzit.net/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[19-Dec-2015 14:40:04 UTC] PHP Fatal error:  Out of memory (allocated 39059456) (tried to allocate 1966080 bytes) in /home/esenzitc/public_html/senzit.net/wp-content/themes/Elision/extendvc/extend-vc.php on line 3096
+[02-Jan-2016 06:44:34 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT * FROM wp_users WHERE user_login = 'dennis' made by wp_xmlrpc_server->serve_request, IXR_Server->IXR_Server, IXR_Server->serve, IXR_Server->call, IXR_Server->multiCall, IXR_Server->call, wp_xmlrpc_server->mw_getCategories, wp_xmlrpc_server->login, wp_authenticate, apply_filters('authenticate'), call_user_func_array, wp_authenticate_username_password, get_user_by, WP_User::get_data_by
+[09-Jan-2016 10:48:06 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT * FROM wp_posts  WHERE (post_type = 'page' AND post_status = 'publish')    AND post_parent = 7942   ORDER BY wp_posts.post_title ASC LIMIT 0,1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), get_header, locate_template, load_template, require_once('/themes/Elision/header.php'), body_class, get_body_class, get_pages
+[17-Feb-2016 05:45:05 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('nav_menu') ORDER BY t.name ASC  made by require('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include('/themes/Elision/functions.php'), require_once('/themes/Elision/wpbakery/js_composer/js_composer.php'), require_once('/themes/Elision/wpbakery/js_composer/config/map.php'), get_terms
+[17-Feb-2016 05:45:05 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('link_category') AND tt.count > 0 ORDER BY t.name ASC  made by require('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include('/themes/Elision/functions.php'), require_once('/themes/Elision/wpbakery/js_composer/js_composer.php'), require_once('/themes/Elision/wpbakery/js_composer/config/map.php'), get_terms
+[17-Feb-2016 05:45:05 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('carousels_category') ORDER BY t.name ASC  made by require('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, getCarouselSliderArray, get_terms
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('nav_menu') ORDER BY t.name ASC  made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include('/themes/Elision/functions.php'), require_once('/themes/Elision/wpbakery/js_composer/js_composer.php'), require_once('/themes/Elision/wpbakery/js_composer/config/map.php'), get_terms
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('link_category') AND tt.count > 0 ORDER BY t.name ASC  made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include('/themes/Elision/functions.php'), require_once('/themes/Elision/wpbakery/js_composer/js_composer.php'), require_once('/themes/Elision/wpbakery/js_composer/config/map.php'), get_terms
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('carousels_category') ORDER BY t.name ASC  made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, getCarouselSliderArray, get_terms
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_users' doesn't exist for query SELECT * FROM wp_users WHERE ID = '1' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), get_header, locate_template, load_template, require_once('/themes/Elision/header.php'), wp_head, do_action('wp_head'), call_user_func_array, rt_insert_custom_css, the_post, WP_Query->the_post, setup_postdata, get_userdata, get_user_by, WP_User::get_data_by
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy = 'nav_menu' AND t.term_id = 35 LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), get_header, locate_template, load_template, require_once('/themes/Elision/header.php'), wp_nav_menu, wp_get_nav_menu_object, get_term
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy = 'nav_menu' AND t.slug = '35' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), get_header, locate_template, load_template, require_once('/themes/Elision/header.php'), wp_nav_menu, wp_get_nav_menu_object, get_term_by
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy = 'nav_menu' AND t.name = '35' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), get_header, locate_template, load_template, require_once('/themes/Elision/header.php'), wp_nav_menu, wp_get_nav_menu_object, get_term_by
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy = 'nav_menu' AND t.term_id = 35 LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), get_header, locate_template, load_template, require_once('/themes/Elision/header.php'), wp_nav_menu, wp_get_nav_menu_object, get_term
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy = 'nav_menu' AND t.slug = '35' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), get_header, locate_template, load_template, require_once('/themes/Elision/header.php'), wp_nav_menu, wp_get_nav_menu_object, get_term_by
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy = 'nav_menu' AND t.name = '35' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), get_header, locate_template, load_template, require_once('/themes/Elision/header.php'), wp_nav_menu, wp_get_nav_menu_object, get_term_by
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_term_taxonomy' doesn't exist for query 
+					SELECT wp_term_taxonomy.term_id
+					FROM wp_term_taxonomy
+					INNER JOIN wp_terms USING (term_id)
+					WHERE taxonomy = 'slides_category'
+					AND wp_terms.slug IN ('home_slider')
+				 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, qode_slider, query_posts, WP_Query->query, WP_Query->get_posts, WP_Tax_Query->get_sql, WP_Tax_Query->clean_query, WP_Tax_Query->transform_query
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_users' doesn't exist for query SELECT * FROM wp_users WHERE ID = '1' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, qode_slider, wp_reset_query, wp_reset_postdata, WP_Query->reset_postdata, setup_postdata, get_userdata, get_user_by, WP_User::get_data_by
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_term_taxonomy' doesn't exist for query 
+					SELECT wp_term_taxonomy.term_id
+					FROM wp_term_taxonomy
+					INNER JOIN wp_terms USING (term_id)
+					WHERE taxonomy = 'slides_category'
+					AND wp_terms.slug IN ('home_slider')
+				 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, qode_slider, query_posts, WP_Query->query, WP_Query->get_posts, WP_Tax_Query->get_sql, WP_Tax_Query->clean_query, WP_Tax_Query->transform_query
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_users' doesn't exist for query SELECT * FROM wp_users WHERE ID = '1' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, qode_slider, wp_reset_query, wp_reset_postdata, WP_Query->reset_postdata, setup_postdata, get_userdata, get_user_by, WP_User::get_data_by
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_users' doesn't exist for query SELECT * FROM wp_users WHERE ID = '1' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), the_post, WP_Query->the_post, setup_postdata, get_userdata, get_user_by, WP_User::get_data_by
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_term_taxonomy' doesn't exist for query 
+					SELECT wp_term_taxonomy.term_id
+					FROM wp_term_taxonomy
+					INNER JOIN wp_terms USING (term_id)
+					WHERE taxonomy = 'carousels_category'
+					AND wp_terms.slug IN ('home-partners')
+				 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), the_content, apply_filters('the_content'), call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, WPBakeryShortCode->output, WPBakeryShortCode->content, WPBakeryShortCode->loadTemplate, include('/themes/Elision/extendvc/vc_templates/vc_row.php'), wpb_js_remove_wpautop, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, WPBakeryShortCode->output, WPBakeryShortCode->content, WPBakeryShortCode->loadTemplate, include('/themes/Elision/wpbakery/js_composer/composer/shortcodes_templates/vc_column.php'), wpb_js_remove_wpautop, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, WPBakeryShortCode->output, WPBakeryShortCode->content, WPBakeryShortCode->loadTemplate, include('/themes/Elision/wpbakery/js_composer/composer/shortcodes_templates/vc_parallax.php'), wpb_js_remove_wpautop, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, WPBakeryShortCode->output, WPBakeryShortCode->content, WPBakeryShortCode->loadTemplate, include('/themes/Elision/wpbakery/js_composer/composer/shortcodes_templates/vc_parallax_section.php'), wpb_js_remove_wpautop, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, qode_carousel, query_posts, WP_Query->query, WP_Query->get_posts, WP_Tax_Query->get_sql, WP_Tax_Query->clean_query, WP_Tax_Query->transform_query
+[17-Feb-2016 05:46:47 UTC] WordPress database error Table 'esenz2kd_senzinfo.wp_users' doesn't exist for query SELECT * FROM wp_users WHERE ID = '1' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Elision/full_width.php'), the_content, apply_filters('the_content'), call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, WPBakeryShortCode->output, WPBakeryShortCode->content, WPBakeryShortCode->loadTemplate, include('/themes/Elision/extendvc/vc_templates/vc_row.php'), wpb_js_remove_wpautop, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, WPBakeryShortCode->output, WPBakeryShortCode->content, WPBakeryShortCode->loadTemplate, include('/themes/Elision/wpbakery/js_composer/composer/shortcodes_templates/vc_column.php'), wpb_js_remove_wpautop, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, WPBakeryShortCode->output, WPBakeryShortCode->content, WPBakeryShortCode->loadTemplate, include('/themes/Elision/wpbakery/js_composer/composer/shortcodes_templates/vc_parallax.php'), wpb_js_remove_wpautop, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, WPBakeryShortCode->output, WPBakeryShortCode->content, WPBakeryShortCode->loadTemplate, include('/themes/Elision/wpbakery/js_composer/composer/shortcodes_templates/vc_parallax_section.php'), wpb_js_remove_wpautop, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, qode_carousel, wp_reset_query, wp_reset_postdata, WP_Query->reset_postdata, setup_postdata, get_userdata, get_user_by, WP_User::get_data_by
+[27-Apr-2016 13:44:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[07-Jul-2016 16:33:29 Etc/GMT] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[07-Jul-2016 16:33:29 Etc/GMT] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[07-Jul-2016 16:33:29 Etc/GMT] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[07-Jul-2016 16:33:29 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[12-Jul-2016 15:35:09 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[18-Jul-2016 15:52:32 Etc/GMT] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[18-Jul-2016 15:52:32 Etc/GMT] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[18-Jul-2016 15:52:33 Etc/GMT] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[18-Jul-2016 15:52:33 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[08-Aug-2016 13:47:51 Etc/GMT] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[08-Aug-2016 13:47:51 Etc/GMT] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[08-Aug-2016 13:47:51 Etc/GMT] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[08-Aug-2016 13:47:51 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[08-Aug-2016 14:59:13 Etc/GMT] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[08-Aug-2016 14:59:13 Etc/GMT] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[08-Aug-2016 14:59:13 Etc/GMT] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[08-Aug-2016 14:59:13 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/senzixwd/public_html/SENZIT_UAE/wp-settings.php on line 21
+[10-Oct-2016 23:54:02 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[13-Oct-2016 02:00:04 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[27-Oct-2016 23:20:23 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[28-Oct-2016 04:05:38 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[13-Nov-2016 04:08:44 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[19-Nov-2016 18:20:12 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[20-Nov-2016 07:14:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[21-Nov-2016 06:30:09 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[24-Nov-2016 00:36:06 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[24-Nov-2016 04:05:12 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[28-Dec-2016 05:41:55 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[01-Jan-2017 09:33:24 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[02-Jan-2017 07:58:01 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[02-Jan-2017 07:58:02 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[10-Jan-2017 05:13:21 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[26-Feb-2017 14:32:46 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[27-Mar-2017 12:19:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[12-Apr-2017 13:54:02 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[12-Apr-2017 13:54:06 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[29-Apr-2017 00:35:04 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[02-May-2017 16:46:00 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[12-May-2017 21:06:29 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[24-May-2017 18:38:24 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[25-May-2017 21:06:46 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[31-May-2017 00:07:54 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[01-Jun-2017 12:51:27 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[01-Jun-2017 12:51:31 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[03-Jun-2017 03:37:40 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[15-Jun-2017 21:55:04 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzixwd/public_html/SENZIT_UAE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzixwd/public_html/SENZIT_UAE/test.php on line 10
+[18-Jun-2017 16:06:45 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[25-Jun-2017 07:51:58 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[15-Jul-2017 06:32:25 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SENZIT_UAE/wp-includes/class-wp-xmlrpc-server.php on line 518
+[23-Aug-2017 21:06:22 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_AE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_AE/test.php on line 10
+[15-Sep-2017 04:15:23 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_AE/wp-includes/class-wp-xmlrpc-server.php on line 523
+[21-Sep-2017 12:34:02 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_AE/wp-includes/class-wp-xmlrpc-server.php on line 523
+[01-Oct-2017 20:06:20 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_AE/wp-includes/class-wp-xmlrpc-server.php on line 523
+[07-Oct-2017 17:32:00 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_AE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_AE/test.php on line 10
+[07-Oct-2017 17:58:25 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed while trying to download image' in /home/senzix15/public_html/SENZIT_AE/test.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/senzix15/public_html/SENZIT_AE/test.php on line 10
+[12-Oct-2017 20:24:12 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_AE/wp-includes/class-wp-xmlrpc-server.php on line 523
+[13-Oct-2017 13:38:19 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SENZIT_AE/wp-includes/class-wp-xmlrpc-server.php on line 523

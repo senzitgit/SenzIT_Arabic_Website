@@ -1,0 +1,26 @@
+/*
+ Theme Name:   Twenty Twelve Child
+ Theme URI:    http://www.egemenerd.com
+ Description:  Twenty Twelve Child Theme
+ Author:       Egemen Erdogan
+ Author URI:   http://www.egemenerd.com
+ Template:     twentytwelve
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-twelve-child
+*/
+
+.site-description {font-size: 18px !important;}
+.site-content article {border-bottom: none !important;margin-bottom: 0px !important;}
+.flex-video {position: relative;padding-bottom: 67.5%;height: 0;overflow: hidden;margin-bottom: 30px;}
+.flex-video.widescreen {padding-bottom: 37.25%;}
+.flex-video.vimeo {padding-top: 0;}
+.flex-video iframe,.flex-video object,.flex-video embed,.flex-video video {position: absolute;top: 0;left: 0;width: 100%;height: 100%;outline: none;border: none;}
+h1,h2,h3,h4,h5,h6 { margin-top: 0px !important;}
+hr { margin-right:0px !important; margin-left:0px !important;opacity:0.5;}
+
+@media only screen and (max-width: 480px) {
+    .site-description {
+    font-size: 16px !important;
+}
+}

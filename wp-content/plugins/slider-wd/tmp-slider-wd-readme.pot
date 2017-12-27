@@ -1,0 +1,470 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Slider WD"
+msgstr ""
+
+#. Short description.
+msgid "Slider WD is a great tool for creating responsive sliders. It uses various transition effects."
+msgstr ""
+
+#. Found in description header.
+msgid "IMPORTANT:"
+msgstr ""
+
+#. Found in description header.
+msgid "Supported languages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Responsiveness"
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility of adding unlimited sliders and unlimited slides for each slider"
+msgstr ""
+
+#. Found in description list item.
+msgid "Three options for adding images (from Media Library, by Slider WD Media Upload option or by using image URL)  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Full-width slider support"
+msgstr ""
+
+#. Found in description list item.
+msgid "5 transition effects "
+msgstr ""
+
+#. Found in description list item.
+msgid "Autoplay"
+msgstr ""
+
+#. Found in description list item.
+msgid "Shuffle"
+msgstr ""
+
+#. Found in description list item.
+msgid "Shortcode for easy insert of the slider into post/pages "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility of changing the slide orders (using drag and drop feature) "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility to provide titles for the slides  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Support for music playback"
+msgstr ""
+
+#. Found in description list item.
+msgid "Time setting feature for the effect changes"
+msgstr ""
+
+#. Found in description list item.
+msgid "Right-click protection"
+msgstr ""
+
+#. Found in description list item.
+msgid "Image changing possibility using bullets"
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility to change design for the bullets, navigation buttons  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Timer bar "
+msgstr ""
+
+#. Found in description list item.
+msgid "Support for watermarks "
+msgstr ""
+
+#. Found in description list item.
+msgid "Design customization for almost all features"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom CSS support for adding additional styling features to the slider  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility to use Slider WD Media Upload for uploading multiple images at once  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Text and image watermarking possibility   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Option of opening the slider-related link within the same page   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Slide duplication  "
+msgstr ""
+
+#. Found in description list item.
+msgid "26 transition effects for Slider   "
+msgstr ""
+
+#. Found in description list item.
+msgid "38 layer effects   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Post Slides   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Video Slide support (YouTube and Vimeo)  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Dailymotion, Instagram and Flickr embed   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Layers (text, image and media embed)- <a href=\"https://www.youtube.com/watch?v=obnyK-Czf0k&amp;list=PLnxWPiY5tLFWQf5XaEYYPZj0gdggUrVxP&amp;index=2\">Video Manual</a>  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Social sharing buttons layer (Google+, Tumblr, Twitter, Pinterest and Facebook)   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Hotspot layer    "
+msgstr ""
+
+#. Found in description list item.
+msgid "Slider Filmstrip possibility    "
+msgstr ""
+
+#. Found in description list item.
+msgid "Navigation button/bullet styles   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Parallax effect     "
+msgstr ""
+
+#. Found in description list item.
+msgid "Carousel effect   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Video Slide and layer (mp4)   "
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Create responsive, highly configurable sliders with various effects for your WordPress site. Download for FREE!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "https://www.youtube.com/watch?v=xebpM_-GwG0&amp;index=1&amp;list=PLnxWPiY5tLFWQf5XaEYYPZj0gdggUrVxP"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Slider WD is an effective tool for adding responsive sliders to your website. The slider plugin can be added both as a widget and plugin, as well as be included in the theme for displaying the slider within the theme using PHP function. Slider WD allows adding both images and videos (currently supporting YouTube and Vimeo to be displayed as slider slides). The numerous transition effects and layer support enhance the functionality of the product."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The number of the slides for each slider is not limited. Various layers can be applied for each individual slide. There are three basic types of layers designed for the slides. Those are for sharing textual content, images and sharing buttons (Google+, Tumblr, Twitter, Pinterest and Facebook.) The slides can be used for redirection to another location. Similar feature is also available with the text and image layers."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Upgrade to <a href=\"http://web-dorado.com/products/wordpress-slider-plugin.html\">WordPress Slider Pro</a> to add features:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you think you found a bug in Slider WD or have any problem/question concerning the plugin, please check out <a href=\"http://web-dorado.com/forum/slider-plugin.html\">WordPress Slider Support Forum</a> in our website. If you do not find a solution here, do not hesitate to contact us at <a href=\"mailto:info@web-dorado.com\">info@web-dorado.com</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*If you need language of Slider WD which is not included in this list, please contact us and we will do the translation of Slider WD within 3 days. If you find any mistakes in the translation, please contact us and we will make relevant corrections within 3 days. *"
+msgstr ""
+
+#. Found in installation header.
+msgid "Thank you for your interest in Slider WD."
+msgstr ""
+
+#. Found in installation header.
+msgid "Minimum requirements."
+msgstr ""
+
+#. Found in installation header.
+msgid "Perform a new installation"
+msgstr ""
+
+#. Found in installation list item, remaining content list item.
+msgid "Wordpress 3.0+  "
+msgstr ""
+
+#. Found in installation list item, remaining content list item.
+msgid "PHP 5.x  "
+msgstr ""
+
+#. Found in installation list item, remaining content list item.
+msgid "MySQL 5.x  "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Log in to the administrator panel.   "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to Plugins Add &gt; New &gt; Upload.     "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click \"Install Now\" button.     "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click \"Activate Plugin\" button for activating the Slider WD.    "
+msgstr ""
+
+#. Found in installation list item.
+msgid "If the installation does not succeed, please contact us at <a href=\"mailto:info@web-dorado.com\">info@web-dorado.com</a>."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "After downloading the ZIP file of the slider plugin,"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Turn SliderWD Media Upload  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ajax save  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Images Bulk Add  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Timer bar bug fixed  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "change shortcode button  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fullwidth slider margin bug fixed  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "User manual links added.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial version."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fixed: Flashing only on first transition during fade effect."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Added: Support/rate us messages."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Changed: Filmstrip navigation arrows show on hover."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Added: Google fonts."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Added: Option to display bullets on hover."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Added: Option for mouse swipe navigation."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fixed: Multiple sliders in a page."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "New: Parallax effect."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "New: Hotspot layer (pro version)."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "New: Search by name in file manager."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Changed: Featured plugins page."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fixed: Slider playback direction."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fixed: Conflict with some themes."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Change links."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Update licensing page"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "single quota in image name (bug fixed)"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Wordpress Slider WD Step by step guide"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 1:  Installing the Slider WD."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 2:  Adding images to Sliders."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 3:  Adding layers to the slide."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 4:  Changing/Modifying Slider Settings."
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Log in to your WordPress Administrator panel.  "
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Go to Plugins page, click Add &gt; New &gt; Upload.  "
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Click \"Upload&amp;Install\" button.   "
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Click \"Activate Plugin\" button for activating the plugin.    "
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "1.1 Minimum requirements."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "1.2 Installation."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "If any problem occurs with Slider WD, please contact us at info@web-dorado.com."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "For adding additional images, you should press \"+\" next to the Slide tab.  The Slide tabs can be renamed to make it easier to reach the desired slide within the list, as well as they can be rearranged using drag and drop feature."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "There are three types of layers that can be added to the slides: text, image and social button."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The layer buttons are located on the lower left corner of each slide."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You can add more than one layer to your slide. These layers can be of different or same type."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "3.1 Add Text Layer. You can add custom text to be set as layer over the specific slide."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "3.2 Add Image Layer. You can add images of various dimensions to be set as layers."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "3.3 Add Social Button Layer. You can add social media buttons to share the slider images over the popular social networking websites, selecting the relevant button types."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "To access the settings you should go to Slider WD&gt;Sliders&gt;Settings tab."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "4.1 Global Settings. You can change the main settings here. The changes will affect only the current slider and not previously created sliders. That is to say the global settings are slider-based."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "4.2 Navigation. You can change the style, colors and dimensions for the navigation buttons or completely remove the navigation buttons from the slider."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "4.3 Bullets. In addition to navigation buttons, you can also use bullets for the navigation within the slider images. Upon hitting the bullet the slider image in the corresponding position will be displayed."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "4.4 Filmstrip. You can add a filmstrip for the slider images.This way the entire list of the slider images will be displayed and the user can navigate immidiately to the desired slider image."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "4.5 Timer Bar. You can add a bar displaying the timing left to switching to the next slide. This is commonly used when using autoplay for the slider."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "4.6 Watermark. You can add watermark over the slider images both in the forms of text and images."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Please note that the Fill and Contain options of the slider will work fine with Watermark option regardless of the slider image dimensions, whereas for the Cover option you should have the slider image identical to the size set in the Dimensions setting. If you have uploaded the image with another dimension, you will need to resize the image and upload it again."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "4.7 CSS. You can add custom CSS in the box below to apply custom changes to the slider. The changes will override the original styles coming as default with the slider."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You can insert the created Slider into a page or post. Go to the mentioned Post or Page. Here you will see \"Insert Slider\" button with a Slider icon. Press the button, Select the slider and press Insert."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "In addition, you can insert the shortcode of the slider manually. The corresponding shortcode is displayed next to the created slider in Slider WD&gt;Sliders section under Shortcode column."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "To insert the Slider within the Theme."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You can insert the created Slider into the theme calling it with PHP function. This feature is commonly used for adding the code to header.php for displaying the slider within the header position of the website. You can find the function located in Slider WD&gt;Sliders section under PHP function column."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "To insert the Slider as a widget."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Go to Appearance&gt;Widgets&gt;Slider. Select a position for the slider widget and press Save button. Then provide the title for the slider and select the corresponding slider using the drop-down list."
+msgstr ""
